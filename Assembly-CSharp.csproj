@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <LangVersion>8.0</LangVersion>
+    <_TargetFrameworkDirectories>non_empty_path_generated_by_unity.rider.package</_TargetFrameworkDirectories>
+    <_FullFrameworkReferenceAssemblyPaths>non_empty_path_generated_by_unity.rider.package</_FullFrameworkReferenceAssemblyPaths>
+    <DisableHandlePackageFileConflicts>true</DisableHandlePackageFileConflicts>
+  </PropertyGroup>
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.20506</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <RootNamespace></RootNamespace>
+    <ProjectGuid>{031bbeac-c845-5154-5617-101743c6d140}</ProjectGuid>
+    <ProjectTypeGuids>{E097FAD1-6243-4DAD-9C02-E9B9EFC3FFC1};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <AssemblyName>Assembly-CSharp</AssemblyName>
+    <TargetFrameworkVersion>v4.7.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <BaseDirectory>.</BaseDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Temp\Bin\Debug\Unity.Rider.Editor\</OutputPath>
+    <DefineConstants>UNITY_EDITOR</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoWarn>0169,0649</NoWarn>
+    <AllowUnsafeBlocks>False</AllowUnsafeBlocks>
+    <TreatWarningsAsErrors>False</TreatWarningsAsErrors>
+  </PropertyGroup>
+  <PropertyGroup>
+    <NoConfig>true</NoConfig>
+    <NoStdLib>true</NoStdLib>
+    <AddAdditionalExplicitAssemblyReferences>false</AddAdditionalExplicitAssemblyReferences>
+    <ImplicitlyExpandNETStandardFacades>false</ImplicitlyExpandNETStandardFacades>
+    <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
+  </PropertyGroup>
+  <ItemGroup>
+     <Folder Include="Assets" />
+     <Folder Include="Assets\Bolt\Ludiq\Bolt.Flow\IconMap" />
+     <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.Web.Extensions.Design.xml" />
+     <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\Microsoft.Build.Engine.xml" />
+     <None Include="Assets\Bolt\Ludiq\Assemblies\Bolt.State.Runtime.xml" />
+     <Folder Include="Assets\Bolt" />
+     <None Include="Assets\Bolt\Ludiq\Bolt\Documentation\0. READ ME FIRST.txt" />
+     <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.Data.xml" />
+     <Folder Include="Assets\Bolt\Ludiq\Bolt\Documentation\3. Flow Graphs" />
+     <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\mscorlib.xml" />
+     <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.Security.xml" />
+     <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\Microsoft.Build.Framework.xml" />
+     <None Include="Assets\Bolt\Ludiq\Assemblies\MiscUtil.xml" />
+     <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.Core.xml" />
+     <Folder Include="Assets\Bolt\Ludiq\Bolt.Core\IconMap" />
+     <None Include="Assets\Bolt\Ludiq\Assemblies\Ludiq.Graphs.Editor.xml" />
+     <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.Web.Routing.xml" />
+     <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.DirectoryServices.xml" />
+     <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.Configuration.Install.xml" />
+     <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.Data.Entity.Design.xml" />
+     <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.ServiceModel.Web.xml" />
+     <Folder Include="Assets\Bolt\Ludiq\Ludiq.Graphs" />
+     <Folder Include="Assets\Bolt\Ludiq\Bolt.State\IconMap" />
+     <None Include="Assets\Bolt\Ludiq\Assemblies\Ludiq.Core.Editor.xml" />
+     <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.Web.Entity.Design.xml" />
+     <Folder Include="Assets\Scenes" />
+     <Folder Include="Assets\Bolt\Ludiq\Ludiq.Core\Generated" />
+     <None Include="Assets\Bolt\Ludiq\Assemblies\Ludiq.Graphs.Runtime.xml" />
+     <Folder Include="Assets\Bolt\Ludiq\Bolt.Core" />
+     <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.Printing.xml" />
+     <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.Management.Instrumentation.xml" />
+     <None Include="Assets\Bolt\Ludiq\Assemblies\Bolt.State.Editor.xml" />
+     <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.Data.Services.Client.xml" />
+     <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.Data.Services.Design.xml" />
+     <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.Runtime.Remoting.xml" />
+     <Folder Include="Assets\Bolt\Ludiq\Bolt" />
+     <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.Xml.Linq.xml" />
+     <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\Microsoft.Build.Utilities.v3.5.xml" />
+     <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\Microsoft.Build.Conversion.v3.5.xml" />
+     <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.Management.xml" />
+     <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.Configuration.xml" />
+     <None Include="Assets\Bolt\Ludiq\Assemblies\Bolt.Flow.Editor.xml" />
+     <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.Messaging.xml" />
+     <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.AddIn.xml" />
+     <None Include="Assets\Bolt\Ludiq\Assemblies\Ionic.Zip.xml" />
+     <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.Data.Linq.xml" />
+     <None Include="Assets\Bolt\Ludiq\Assemblies\Bolt.Core.Editor.xml" />
+     <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.Web.DynamicData.Design.xml" />
+     <Folder Include="Assets\Bolt\Ludiq\Bolt\Documentation\1. Introduction" />
+     <Folder Include="Assets\Bolt\Ludiq\Ludiq.Core" />
+     <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.Web.Extensions.xml" />
+     <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.Web.DynamicData.xml" />
+     <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.ServiceProcess.xml" />
+     <Folder Include="Assets\Bolt\Ludiq\Bolt.State\Generated" />
+     <None Include="Assets\Bolt\Ludiq\Assemblies\Bolt.Flow.Runtime.xml" />
+     <None Include="Assets\Bolt\Ludiq\Assemblies\YamlDotNet.xml" />
+     <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.EnterpriseServices.xml" />
+     <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.IdentityModel.xml" />
+     <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\Microsoft.VisualC.STLCLR.xml" />
+     <Folder Include="Assets\Bolt\Ludiq\Bolt\Documentation\2. Basic Concepts" />
+     <Folder Include="Assets\Bolt\Ludiq\Bolt\Documentation\4. State Graphs" />
+     <Folder Include="Assets\Bolt\Ludiq\Bolt.Core\Generated\Variables" />
+     <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.ServiceModel.xml" />
+     <Folder Include="Assets\Bolt\Ludiq\Bolt.Core\Generated" />
+     <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.Deployment.xml" />
+     <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.Transactions.xml" />
+     <None Include="Assets\Bolt\Ludiq\Assemblies\Ludiq.Platforms.xml" />
+     <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.Windows.Forms.xml" />
+     <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.Data.Services.xml" />
+     <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.Data.DataSetExtensions.xml" />
+     <Folder Include="Assets\Bolt\Ludiq\Bolt.Core\Generated\Variables\Resources" />
+     <None Include="Assets\Bolt\Ludiq\Assemblies\Bolt.Core.Runtime.xml" />
+     <Folder Include="Assets\Bolt\Ludiq\Bolt.Flow\Generated" />
+     <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.Runtime.Serialization.xml" />
+     <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.Web.Services.xml" />
+     <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.WorkflowServices.xml" />
+     <Folder Include="Assets\Bolt\Ludiq\Ludiq.Graphs\Generated" />
+     <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.AddIn.Contract.xml" />
+     <Folder Include="Assets\Bolt\Ludiq\Ludiq" />
+     <None Include="Assets\Bolt\Ludiq\Assemblies\Ludiq.Core.Runtime.xml" />
+     <Folder Include="Assets\Bolt\Ludiq" />
+     <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.DirectoryServices.AccountManagement.xml" />
+     <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.Runtime.Serialization.Formatters.Soap.xml" />
+     <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.Data.Entity.xml" />
+     <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.ComponentModel.DataAnnotations.xml" />
+     <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.Web.Abstractions.xml" />
+     <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.Web.Entity.xml" />
+     <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.Drawing.xml" />
+     <Folder Include="Assets\Bolt\Ludiq\Bolt.Flow" />
+     <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.Net.xml" />
+     <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.Data.SqlXml.xml" />
+     <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.xml" />
+     <Folder Include="Assets\Bolt\Ludiq\Assemblies" />
+     <None Include="Assets\Bolt\Ludiq\Bolt\LICENSES.txt" />
+     <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.Windows.Presentation.xml" />
+     <Folder Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation" />
+     <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.Xml.xml" />
+     <Folder Include="Assets\Bolt\Ludiq\Bolt.State" />
+     <Folder Include="Assets\Bolt\Ludiq\Bolt\Documentation" />
+     <Reference Include="UnityEngine">
+     <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.47f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
+     </Reference>
+     <Reference Include="UnityEngine.CoreModule">
+     <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.47f1\Editor\Data\Managed\UnityEngine\UnityEngine.CoreModule.dll</HintPath>
+     </Reference>
+     <Reference Include="UnityEditor">
+     <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.47f1\Editor\Data\Managed\UnityEngine\UnityEditor.dll</HintPath>
+     </Reference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
