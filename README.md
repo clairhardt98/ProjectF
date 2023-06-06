@@ -10,7 +10,7 @@
 2. Player 오브젝트 생성
     1. Player 이동 구현
         
-        ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/78a85292-7867-4256-a137-f416e24aa555/Untitled.png)
+         ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/78a85292-7867-4256-a137-f416e24aa555/Untitled.png)
         
         - 이동 속도부터 구한다
         - Player 오브젝트 variable에 Speed생성 후 플레이어가 가질 속도 값 지정
