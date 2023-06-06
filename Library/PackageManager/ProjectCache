@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638214617191929426
-    m_Hash: 1495183850
+      ticks: 638216144259836684
+    m_Hash: 1938681658
   m_LockFileStatus:
     m_FilePath: C:/Users/ywj/UnityProjects/Project F/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638214617338252899
-    m_Hash: 317225287
+      ticks: 638216144259836684
+    m_Hash: 2375736576
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
@@ -1533,6 +1533,7 @@ m_PackageAssets:
         - 1.8.0
         - 1.8.1
         - 1.8.2
+        - 1.8.3
         compatible:
         - 1.4.8
         - 1.5.0-pre.2
@@ -1568,6 +1569,7 @@ m_PackageAssets:
         - 1.8.0
         - 1.8.1
         - 1.8.2
+        - 1.8.3
         verified: 1.4.8
       dependencies:
       - name: com.unity.modules.director
