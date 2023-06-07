@@ -12,7 +12,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{031bbeac-c845-5154-5617-101743c6d140}</ProjectGuid>
+    <ProjectGuid>{590fca55-dd23-4149-e4ae-e2ccc50920b2}</ProjectGuid>
     <ProjectTypeGuids>{E097FAD1-6243-4DAD-9C02-E9B9EFC3FFC1};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
@@ -65,6 +65,7 @@
      <Folder Include="Assets\Bolt\Ludiq\Ludiq.Graphs" />
      <Folder Include="Assets\Bolt\Ludiq\Bolt.State\IconMap" />
      <None Include="Assets\Bolt\Ludiq\Assemblies\Ludiq.Core.Editor.xml" />
+     <Folder Include="Assets\Prefabs" />
      <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.Web.Entity.Design.xml" />
      <Folder Include="Assets\Scenes" />
      <Folder Include="Assets\Bolt\Ludiq\Ludiq.Core\Generated" />
@@ -82,11 +83,13 @@
      <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\Microsoft.Build.Conversion.v3.5.xml" />
      <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.Management.xml" />
      <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.Configuration.xml" />
+     <Folder Include="Assets\Physics" />
      <None Include="Assets\Bolt\Ludiq\Assemblies\Bolt.Flow.Editor.xml" />
      <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.Messaging.xml" />
      <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.AddIn.xml" />
      <None Include="Assets\Bolt\Ludiq\Assemblies\Ionic.Zip.xml" />
      <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.Data.Linq.xml" />
+     <Folder Include="Assets\Sprites" />
      <None Include="Assets\Bolt\Ludiq\Assemblies\Bolt.Core.Editor.xml" />
      <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.Web.DynamicData.Design.xml" />
      <Folder Include="Assets\Bolt\Ludiq\Bolt\Documentation\1. Introduction" />
@@ -97,6 +100,7 @@
      <Folder Include="Assets\Bolt\Ludiq\Bolt.State\Generated" />
      <None Include="Assets\Bolt\Ludiq\Assemblies\Bolt.Flow.Runtime.xml" />
      <None Include="Assets\Bolt\Ludiq\Assemblies\YamlDotNet.xml" />
+     <Folder Include="Assets\Macros" />
      <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.EnterpriseServices.xml" />
      <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.IdentityModel.xml" />
      <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\Microsoft.VisualC.STLCLR.xml" />
