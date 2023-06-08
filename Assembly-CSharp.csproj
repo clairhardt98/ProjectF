@@ -87,6 +87,7 @@
      <None Include="Assets\Bolt\Ludiq\Assemblies\Bolt.Flow.Editor.xml" />
      <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.Messaging.xml" />
      <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.AddIn.xml" />
+     <Folder Include="Assets\Sprites\Player" />
      <None Include="Assets\Bolt\Ludiq\Assemblies\Ionic.Zip.xml" />
      <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.Data.Linq.xml" />
      <Folder Include="Assets\Sprites" />
