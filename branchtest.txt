@@ -1,1 +1,8 @@
-now in branch base
+<<<<<<< HEAD
+minkyung branch
+asdfasdf
+
+fffffff
+=======
+minkyung branch 2
+>>>>>>> minkyung
