@@ -60,6 +60,7 @@
      <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.Web.Routing.xml" />
      <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.DirectoryServices.xml" />
      <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.Configuration.Install.xml" />
+     <Folder Include="Assets\Sprites\Player\SummonAnimSprite" />
      <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.Data.Entity.Design.xml" />
      <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.ServiceModel.Web.xml" />
      <Folder Include="Assets\Bolt\Ludiq\Ludiq.Graphs" />
@@ -68,6 +69,7 @@
      <Folder Include="Assets\Prefabs" />
      <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.Web.Entity.Design.xml" />
      <Folder Include="Assets\Scenes" />
+     <Folder Include="Assets\Animations\Controllers" />
      <Folder Include="Assets\Bolt\Ludiq\Ludiq.Core\Generated" />
      <None Include="Assets\Bolt\Ludiq\Assemblies\Ludiq.Graphs.Runtime.xml" />
      <Folder Include="Assets\Bolt\Ludiq\Bolt.Core" />
@@ -105,6 +107,7 @@
      <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.EnterpriseServices.xml" />
      <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.IdentityModel.xml" />
      <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\Microsoft.VisualC.STLCLR.xml" />
+     <Folder Include="Assets\Sprites\Player\IdleAnimSprite" />
      <Folder Include="Assets\Bolt\Ludiq\Bolt\Documentation\2. Basic Concepts" />
      <Folder Include="Assets\Bolt\Ludiq\Bolt\Documentation\4. State Graphs" />
      <Folder Include="Assets\Bolt\Ludiq\Bolt.Core\Generated\Variables" />
@@ -118,6 +121,7 @@
      <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.Data.DataSetExtensions.xml" />
      <Folder Include="Assets\Bolt\Ludiq\Bolt.Core\Generated\Variables\Resources" />
      <None Include="Assets\Bolt\Ludiq\Assemblies\Bolt.Core.Runtime.xml" />
+     <Folder Include="Assets\Animations\Animations" />
      <Folder Include="Assets\Bolt\Ludiq\Bolt.Flow\Generated" />
      <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.Runtime.Serialization.xml" />
      <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.Web.Services.xml" />
@@ -143,6 +147,7 @@
      <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.Windows.Presentation.xml" />
      <Folder Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation" />
      <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.Xml.xml" />
+     <Folder Include="Assets\Animations" />
      <Folder Include="Assets\Bolt\Ludiq\Bolt.State" />
      <Folder Include="Assets\Bolt\Ludiq\Bolt\Documentation" />
      <Reference Include="UnityEngine">
