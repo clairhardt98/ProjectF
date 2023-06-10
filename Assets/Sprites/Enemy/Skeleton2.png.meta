@@ -1,0 +1,625 @@
+fileFormatVersion: 2
+guid: 50769c881182a9f428a2d6073dc320a4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -289439259285793824
+    second: Skeleton2_0
+  - first:
+      213: -173007960398794308
+    second: Skeleton2_1
+  - first:
+      213: -7484168688982952023
+    second: Skeleton2_2
+  - first:
+      213: 7825039316120781608
+    second: Skeleton2_3
+  - first:
+      213: -680351307324910825
+    second: Skeleton2_4
+  - first:
+      213: -8926623943133774576
+    second: Skeleton2_5
+  - first:
+      213: -895457368822130112
+    second: Skeleton2_6
+  - first:
+      213: -3892007549800089804
+    second: Skeleton2_7
+  - first:
+      213: 4855746789493992323
+    second: Skeleton2_8
+  - first:
+      213: -2283038386485402242
+    second: Skeleton2_17
+  - first:
+      213: -3907265437045795947
+    second: Skeleton2_19
+  - first:
+      213: 8381623491531319614
+    second: Skeleton2_21
+  - first:
+      213: -4068131397383647377
+    second: Skeleton2_23
+  - first:
+      213: -3788161104509658184
+    second: Skeleton2_24
+  - first:
+      213: -7402030078990957136
+    second: Skeleton2_25
+  - first:
+      213: -7555496005579076623
+    second: Skeleton2_26
+  - first:
+      213: 3457416891511225331
+    second: Skeleton2_27
+  - first:
+      213: -1333914261331461102
+    second: Skeleton2_28
+  - first:
+      213: 3975404963453418250
+    second: Skeleton2_29
+  - first:
+      213: 6563967296246860644
+    second: Skeleton2_30
+  - first:
+      213: 1358203534215028802
+    second: Skeleton2_31
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Skeleton2_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 678
+        width: 82
+        height: 93
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3d736f684bbfbf0800000000000000
+      internalID: -289439259285793824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton2_1
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 677
+        width: 82
+        height: 92
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb17d193d2a599df0800000000000000
+      internalID: -173007960398794308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton2_2
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 678
+        width: 83
+        height: 91
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a7f11eea34e22890800000000000000
+      internalID: -7484168688982952023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton2_3
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 678
+        width: 82
+        height: 92
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82348d69ccf189c60800000000000000
+      internalID: 7825039316120781608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton2_4
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 561
+        width: 82
+        height: 93
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7131d643718ee86f0800000000000000
+      internalID: -680351307324910825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton2_5
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 561
+        width: 84
+        height: 95
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01db30aa1d24e1480800000000000000
+      internalID: -8926623943133774576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton2_6
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 561
+        width: 82
+        height: 93
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ad9d37442b293f0800000000000000
+      internalID: -895457368822130112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton2_7
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 561
+        width: 84
+        height: 95
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 437f60311cfccf9c0800000000000000
+      internalID: -3892007549800089804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton2_8
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 437
+        width: 89
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b680b6af3136340800000000000000
+      internalID: 4855746789493992323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton2_17
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 466
+        width: 4
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75e4fcfea40150e0800000000000000
+      internalID: -2283038386485402242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton2_19
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 466
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59359bd59ca96c9c0800000000000000
+      internalID: -3907265437045795947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton2_21
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 455
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e392bc56822815470800000000000000
+      internalID: 8381623491531319614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton2_23
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 306
+        width: 73
+        height: 100
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f85574c081b87c0800000000000000
+      internalID: -4068131397383647377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton2_24
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 306
+        width: 99
+        height: 91
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb10c5cb8fbd6bc0800000000000000
+      internalID: -3788161104509658184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton2_25
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 306
+        width: 90
+        height: 92
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b5ccfc5cd4b64990800000000000000
+      internalID: -7402030078990957136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton2_26
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 306
+        width: 73
+        height: 93
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb8395e96c752790800000000000000
+      internalID: -7555496005579076623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton2_27
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 160
+        width: 99
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb36fa38563bff20800000000000000
+      internalID: 3457416891511225331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton2_28
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 160
+        width: 80
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21cb284fb0cfc7de0800000000000000
+      internalID: -1333914261331461102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton2_29
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 16
+        width: 82
+        height: 93
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b37fc60c97b2730800000000000000
+      internalID: 3975404963453418250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton2_30
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 16
+        width: 89
+        height: 75
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b43128a75e71b50800000000000000
+      internalID: 6563967296246860644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton2_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 16
+        width: 89
+        height: 64
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24021951bee49d210800000000000000
+      internalID: 1358203534215028802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
