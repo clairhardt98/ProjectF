@@ -4,7 +4,6 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Enemy
   - Sibling
   layers:
   - Default
@@ -14,7 +13,7 @@ TagManager:
   - Water
   - UI
   - Sibling
-  - Enemy
+  - 
   - 
   - 
   - 
