@@ -127,9 +127,11 @@
      <None Include="Assets\Bolt\Ludiq\Assemblies\Ludiq.Platforms.xml" />
      <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.Windows.Forms.xml" />
      <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.Data.Services.xml" />
+     <Folder Include="Assets\Macros\2DTest" />
      <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.Data.DataSetExtensions.xml" />
      <Folder Include="Assets\Bolt\Ludiq\Bolt.Core\Generated\Variables\Resources" />
      <None Include="Assets\Bolt\Ludiq\Assemblies\Bolt.Core.Runtime.xml" />
+     <Folder Include="Assets\Prefabs\2DTest" />
      <Folder Include="Assets\Animations\Animations" />
      <Folder Include="Assets\Bolt\Ludiq\Bolt.Flow\Generated" />
      <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.Runtime.Serialization.xml" />
