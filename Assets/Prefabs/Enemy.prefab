@@ -155,7 +155,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 0
+  m_Constraints: 4
 --- !u!114 &3340090198807169258
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -169,7 +169,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"attack","value":{"$content":1,"$type":"System.Int32"},"$version":"A"},{"name":"speed","value":{"$content":2,"$type":"System.Int32"},"$version":"A"},{"name":"ditection","value":{"$content":3.0,"$type":"System.Single"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"attack","value":{"$content":1,"$type":"System.Int32"},"$version":"A"},{"name":"speed","value":{"$content":1,"$type":"System.Int32"},"$version":"A"},{"name":"ditection","value":{"$content":3.0,"$type":"System.Single"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences: []
 --- !u!114 &7577761445312315903
 MonoBehaviour:
