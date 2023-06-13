@@ -169,7 +169,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"attack","value":{"$content":1,"$type":"System.Int32"},"$version":"A"},{"name":"speed","value":{"$content":1,"$type":"System.Int32"},"$version":"A"},{"name":"ditection","value":{"$content":3.0,"$type":"System.Single"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"attack","value":{"$content":1,"$type":"System.Int32"},"$version":"A"},{"name":"speed","value":{"$content":1,"$type":"System.Int32"},"$version":"A"},{"name":"detection","value":{"$content":2.0,"$type":"System.Single"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences: []
 --- !u!114 &7577761445312315903
 MonoBehaviour:
