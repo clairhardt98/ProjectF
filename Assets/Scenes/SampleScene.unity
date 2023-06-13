@@ -1087,14 +1087,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 1526218203, guid: 8312a4c80857ab548b023acd253a7755, type: 3}
-      propertyPath: m_Layer
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1602145315, guid: 8312a4c80857ab548b023acd253a7755, type: 3}
-      propertyPath: m_Layer
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 5849228987098253803, guid: 8312a4c80857ab548b023acd253a7755, type: 3}
       propertyPath: m_Name
       value: SiblingTest (2)
@@ -1980,18 +1972,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 8440443609728245938, guid: d7f2b1149021a214892225c551119793, type: 3}
-      propertyPath: _data._json
-      value: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
-      objectReference: {fileID: 0}
-    - target: {fileID: 8440443609728245938, guid: d7f2b1149021a214892225c551119793, type: 3}
-      propertyPath: _data._objectReferences.Array.size
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 8440443609728245938, guid: d7f2b1149021a214892225c551119793, type: 3}
-      propertyPath: _data._objectReferences.Array.data[0]
-      value: 
-      objectReference: {fileID: 11400000, guid: 32e872a50d542e14eb4f3f379c802c7c, type: 2}
     - target: {fileID: 8440443609728245941, guid: d7f2b1149021a214892225c551119793, type: 3}
       propertyPath: m_Name
       value: Player

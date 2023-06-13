@@ -267,7 +267,7 @@ GameObject:
   - component: {fileID: 1235355531}
   - component: {fileID: 1235355532}
   m_Layer: 6
-  m_Name: SiblingTest_2DTest
+  m_Name: SiblingTest _2DTest
   m_TagString: Sibling
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
