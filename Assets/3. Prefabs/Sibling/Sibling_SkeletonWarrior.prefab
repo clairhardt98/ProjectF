@@ -28,8 +28,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1526218203}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1.3969998, y: 1.3119, z: 0}
-  m_LocalScale: {x: 3.2692885, y: 1.8930079, z: 1}
+  m_LocalPosition: {x: 1.3969998, y: 1.2043, z: 0}
+  m_LocalScale: {x: 3.2692885, y: 1.3666972, z: 1}
   m_Children: []
   m_Father: {fileID: 5849228987098253809}
   m_RootOrder: 0
@@ -264,8 +264,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"health","value":{"$content":50.0,"$type":"System.Single"},"$version":"A"},{"name":"detection","value":{"$content":1.0,"$type":"System.Single"},"$version":"A"},{"name":"speed","value":{"$content":2.0,"$type":"System.Single"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
-    _objectReferences: []
+    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"health","value":{"$content":50.0,"$type":"System.Single"},"$version":"A"},{"name":"detection","value":{"$content":1.0,"$type":"System.Single"},"$version":"A"},{"name":"speed","value":{"$content":2.0,"$type":"System.Single"},"$version":"A"},{"name":"target_enemy","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+    _objectReferences:
+    - {fileID: 0}
 --- !u!95 &1235355531
 Animator:
   serializedVersion: 5
@@ -316,7 +317,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.05405879, y: 1.268449}
+  m_Offset: {x: -0.05405879, y: 1.20689}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.47579455, y: 0.018310547}
@@ -327,5 +328,5 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 2.2333333, y: 2.6333334}
+  m_Size: {x: 2.2333333, y: 1.352907}
   m_EdgeRadius: 0
