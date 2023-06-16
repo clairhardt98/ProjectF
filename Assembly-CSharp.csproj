@@ -52,6 +52,8 @@
      <Folder Include="Assets\3. Prefabs\Enemy" />
      <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.Data.xml" />
      <Folder Include="Assets\Bolt\Ludiq\Bolt\Documentation\3. Flow Graphs" />
+     <Folder Include="Assets\1. Animations\Controllers\Sibling" />
+     <Folder Include="Assets\1. Animations\Controllers\Player" />
      <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\mscorlib.xml" />
      <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.Security.xml" />
      <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\Microsoft.Build.Framework.xml" />
@@ -77,12 +79,14 @@
      <Folder Include="Assets\1. Animations\Animations\Enemy" />
      <None Include="Assets\Bolt\Ludiq\Assemblies\Ludiq.Graphs.Runtime.xml" />
      <Folder Include="Assets\Bolt\Ludiq\Bolt.Core" />
+     <Folder Include="Assets\2. Macros\Common" />
      <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.Printing.xml" />
      <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.Management.Instrumentation.xml" />
      <None Include="Assets\Bolt\Ludiq\Assemblies\Bolt.State.Editor.xml" />
      <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.Data.Services.Client.xml" />
      <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.Data.Services.Design.xml" />
      <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.Runtime.Remoting.xml" />
+     <Folder Include="Assets\1. Animations\Controllers\Enemy" />
      <Folder Include="Assets\Bolt\Ludiq\Bolt" />
      <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.Xml.Linq.xml" />
      <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\Microsoft.Build.Utilities.v3.5.xml" />
@@ -124,7 +128,7 @@
      <Folder Include="Assets\Bolt\Ludiq\Bolt\Documentation\2. Basic Concepts" />
      <Folder Include="Assets\3. Prefabs\Player" />
      <Folder Include="Assets\6. Sprites\Enemy" />
-     <Folder Include="Assets\1. Animations\Animations\Skeleton2" />
+     <Folder Include="Assets\1. Animations\Animations\Sibling\SkeletonWarrior2" />
      <Folder Include="Assets\Bolt\Ludiq\Bolt\Documentation\4. State Graphs" />
      <Folder Include="Assets\Bolt\Ludiq\Bolt.Core\Generated\Variables" />
      <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.ServiceModel.xml" />
@@ -160,6 +164,7 @@
      <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.Net.xml" />
      <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.Data.SqlXml.xml" />
      <Folder Include="Assets\2. Macros\Sibling" />
+     <Folder Include="Assets\1. Animations\Animations\Sibling\SkeletonWarrior" />
      <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.xml" />
      <Folder Include="Assets\Bolt\Ludiq\Assemblies" />
      <None Include="Assets\Bolt\Ludiq\Bolt\LICENSES.txt" />
@@ -167,6 +172,7 @@
      <Folder Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation" />
      <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.Xml.xml" />
      <Folder Include="Assets\Bolt\Ludiq\Bolt.State" />
+     <Folder Include="Assets\1. Animations\Controllers\Effect" />
      <Folder Include="Assets\Bolt\Ludiq\Bolt\Documentation" />
      <Reference Include="UnityEngine">
      <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.47f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
