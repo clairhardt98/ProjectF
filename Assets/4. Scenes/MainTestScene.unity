@@ -896,6 +896,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1564429071, guid: f48681554f937a6489ab132af105c5a3, type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"damage","value":{"$content":100.0,"$type":"System.Single"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
     - target: {fileID: 3340090198807169258, guid: f48681554f937a6489ab132af105c5a3, type: 3}
       propertyPath: _data._json
       value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"health","value":{"$content":70.0,"$type":"System.Single"},"$version":"A"},{"name":"detection","value":{"$content":3.0,"$type":"System.Single"},"$version":"A"},{"name":"speed","value":{"$content":2,"$type":"System.Int32"},"$version":"A"},{"name":"target_sbling","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
