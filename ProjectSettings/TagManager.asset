@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Sibling
   - Enemy
+  - Corpse
   layers:
   - Default
   - TransparentFX
