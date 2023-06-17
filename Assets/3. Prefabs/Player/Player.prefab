@@ -231,7 +231,7 @@ GameObject:
   - component: {fileID: 1218168325}
   - component: {fileID: 1218168327}
   - component: {fileID: 1218168326}
-  m_Layer: 11
+  m_Layer: 13
   m_Name: Skill1Range
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -469,7 +469,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Speed","value":{"$content":10.0,"$type":"System.Single"},"$version":"A"},{"name":"Movement_X","value":{"$content":0.0,"$type":"System.Single"},"$version":"A"},{"name":"Slope","value":{"$content":0.0,"$type":"System.Single"},"$version":"A"},{"name":"Movement_Y","value":{"$content":0.0,"$type":"System.Single"},"$version":"A"},{"name":"Health","value":{"$content":50,"$type":"System.Int32"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Speed","value":{"$content":10.0,"$type":"System.Single"},"$version":"A"},{"name":"Movement_X","value":{"$content":0.0,"$type":"System.Single"},"$version":"A"},{"name":"Slope","value":{"$content":0.0,"$type":"System.Single"},"$version":"A"},{"name":"Movement_Y","value":{"$content":0.0,"$type":"System.Single"},"$version":"A"},{"name":"Health","value":{"$content":50,"$type":"System.Int32"},"$version":"A"},{"name":"isDead","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences: []
 --- !u!114 &8440443609728245938
 MonoBehaviour:
@@ -521,7 +521,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: -1.27}
+  m_Offset: {x: 0, y: 0}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
