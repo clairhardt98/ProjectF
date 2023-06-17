@@ -19,9 +19,9 @@ TagManager:
   - Floor
   - Corpse
   - Boundary
-  - Range
-  - 
-  - 
+  - ERange
+  - SRange
+  - PRange
   - 
   - 
   - 
