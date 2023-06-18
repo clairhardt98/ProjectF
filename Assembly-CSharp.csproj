@@ -12,7 +12,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{590fca55-dd23-4149-e4ae-e2ccc50920b2}</ProjectGuid>
+    <ProjectGuid>{031bbeac-c845-5154-5617-101743c6d140}</ProjectGuid>
     <ProjectTypeGuids>{E097FAD1-6243-4DAD-9C02-E9B9EFC3FFC1};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
@@ -74,6 +74,7 @@
      <Folder Include="Assets\3. Prefabs" />
      <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.Web.Entity.Design.xml" />
      <Folder Include="Assets\4. Scenes" />
+     <Folder Include="Assets\6. Sprites\Sturcture" />
      <Folder Include="Assets\1. Animations\Controllers" />
      <Folder Include="Assets\Bolt\Ludiq\Ludiq.Core\Generated" />
      <Folder Include="Assets\1. Animations\Animations\Enemy" />
@@ -118,6 +119,7 @@
      <None Include="Assets\Bolt\Ludiq\Assemblies\Bolt.Flow.Runtime.xml" />
      <None Include="Assets\Bolt\Ludiq\Assemblies\YamlDotNet.xml" />
      <Folder Include="Assets\2. Macros\Enemy" />
+     <Folder Include="Assets\6. Sprites\Player\SkillAnimSprite" />
      <Folder Include="Assets\2. Macros" />
      <Folder Include="Assets\6. Sprites\Sibling" />
      <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.EnterpriseServices.xml" />
