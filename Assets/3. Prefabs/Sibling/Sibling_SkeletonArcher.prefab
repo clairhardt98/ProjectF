@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 989314973}
   - component: {fileID: 989314972}
   - component: {fileID: 989314971}
-  m_Layer: 6
+  m_Layer: 14
   m_Name: TargetColider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -95,7 +95,7 @@ GameObject:
   - component: {fileID: 1235355531}
   - component: {fileID: 1235355532}
   - component: {fileID: 1161037115}
-  m_Layer: 6
+  m_Layer: 14
   m_Name: Sibling_SkeletonArcher
   m_TagString: Sibling
   m_Icon: {fileID: 0}
@@ -274,7 +274,7 @@ GameObject:
   - component: {fileID: 1930108770}
   - component: {fileID: 1930108771}
   - component: {fileID: 1930108772}
-  m_Layer: 8
+  m_Layer: 14
   m_Name: SkeletonArcher_arrow
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -384,7 +384,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1.9666667, y: 0.23333333}
+    oldSize: {x: 1.6857142, y: 0.2}
     newSize: {x: 0.2, y: 1.9666667}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -422,5 +422,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"speed","value":{"$content":15.0,"$type":"System.Single"},"$version":"A"},{"name":"ishit","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"direction","value":{"x":0.0,"y":0.0,"$type":"UnityEngine.Vector2"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"speed","value":{"$content":15.0,"$type":"System.Single"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences: []
