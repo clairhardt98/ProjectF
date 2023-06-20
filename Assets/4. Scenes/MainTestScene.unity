@@ -298,8 +298,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _data:
     _json: '{"declarations":{"Kind":"Scene","collection":{"$content":[{"name":"Skill1Range","value":{"$content":[],"$type":"System.Collections.Generic.List`1[[UnityEngine.Collider2D,
-      UnityEngine.Physics2DModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"$version":"A"},{"name":"BackGroundMaxX","value":{"$content":12.0,"$type":"System.Single"},"$version":"A"},{"name":"BackGroundMaxY","value":{"$content":2.0,"$type":"System.Single"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
-    _objectReferences: []
+      UnityEngine.Physics2DModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"$version":"A"},{"name":"BackGroundMaxX","value":{"$content":12.0,"$type":"System.Single"},"$version":"A"},{"name":"BackGroundMaxY","value":{"$content":2.0,"$type":"System.Single"},"$version":"A"},{"name":"UICanvas","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+    _objectReferences:
+    - {fileID: 1747088969}
 --- !u!4 &421147775
 Transform:
   m_ObjectHideFlags: 0
@@ -842,7 +843,7 @@ GameObject:
   - component: {fileID: 1747088968}
   - component: {fileID: 1747088967}
   m_Layer: 5
-  m_Name: Canvas
+  m_Name: UICanvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -992,14 +993,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 4109200428308608640, guid: 2c0a6651f90788649b00e4dc29060a71, type: 3}
-      propertyPath: m_FillAmount
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4675294907813078409, guid: 2c0a6651f90788649b00e4dc29060a71, type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 8440443609728245936, guid: 2c0a6651f90788649b00e4dc29060a71, type: 3}
       propertyPath: m_RootOrder
       value: 3
@@ -1043,10 +1036,6 @@ PrefabInstance:
     - target: {fileID: 8440443609728245936, guid: 2c0a6651f90788649b00e4dc29060a71, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8440443609728245937, guid: 2c0a6651f90788649b00e4dc29060a71, type: 3}
-      propertyPath: _data._json
-      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Speed","value":{"$content":10.0,"$type":"System.Single"},"$version":"A"},{"name":"Movement_X","value":{"$content":0.0,"$type":"System.Single"},"$version":"A"},{"name":"Slope","value":{"$content":0.0,"$type":"System.Single"},"$version":"A"},{"name":"Movement_Y","value":{"$content":0.0,"$type":"System.Single"},"$version":"A"},{"name":"health","value":{"$content":50,"$type":"System.Int32"},"$version":"A"},{"name":"isDead","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"SelectSummon","value":{"$content":0,"$type":"System.Int32"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
       objectReference: {fileID: 0}
     - target: {fileID: 8440443609728245941, guid: 2c0a6651f90788649b00e4dc29060a71, type: 3}
       propertyPath: m_Name

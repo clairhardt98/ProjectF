@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1893448595, guid: a040fb66244a7f54289914d98ea4ef7d, type: 3}
+  m_Name: HPBarController
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"graph":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":-73.0,"y":82.0},"zoom":1.0,"elements":[{"nest":{"source":"Macro","macro":0,"embed":null},"defaultValues":{},"position":{"x":-131.0,"y":-74.0},"guid":"388179cd-3b40-4b11-ad85-36a7c15f0392","$version":"A","$type":"Bolt.SuperUnit","$id":"9"},{"nest":{"source":"Macro","macro":1,"embed":null},"defaultValues":{},"position":{"x":-132.0,"y":62.0},"guid":"0bac3a81-77da-42b9-83d3-0638d48f3533","$version":"A","$type":"Bolt.SuperUnit","$id":"12"},{"coroutine":false,"defaultValues":{},"position":{"x":-353.0,"y":-56.0},"guid":"bcb92e33-6a43-477e-b2f5-20d4baf2fe28","$version":"A","$type":"Bolt.Start","$id":"15"},{"coroutine":false,"defaultValues":{},"position":{"x":-346.0,"y":88.0},"guid":"527cab02-cb03-4193-835b-4a68920ac7b6","$version":"A","$type":"Bolt.LateUpdate","$id":"17"},{"sourceUnit":{"$ref":"15"},"sourceKey":"trigger","destinationUnit":{"$ref":"9"},"destinationKey":"Flow","guid":"622ed97d-bc17-4f44-b600-1f8e3ac08824","$type":"Bolt.ControlConnection"},{"sourceUnit":{"$ref":"17"},"sourceKey":"trigger","destinationUnit":{"$ref":"12"},"destinationKey":"Flow","guid":"4dd812dc-222e-4436-beec-e1c96c8cfdf0","$type":"Bolt.ControlConnection"}],"$version":"A"}}'
+    _objectReferences:
+    - {fileID: 11400000, guid: 74ab404390faecb45b2b56ebf40b7e54, type: 2}
+    - {fileID: 11400000, guid: f6ca2d316d20131428ac714728bdf224, type: 2}
