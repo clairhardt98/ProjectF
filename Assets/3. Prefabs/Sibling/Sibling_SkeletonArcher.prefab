@@ -95,6 +95,7 @@ GameObject:
   - component: {fileID: 1235355531}
   - component: {fileID: 1235355532}
   - component: {fileID: 1161037115}
+  - component: {fileID: 1956925989}
   m_Layer: 14
   m_Name: Sibling_SkeletonArcher
   m_TagString: Sibling
@@ -204,7 +205,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _data:
     _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"melee_unit","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"health","value":{"$content":50.0,"$type":"System.Single"},"$version":"A"},{"name":"damage","value":{"$content":10.0,"$type":"System.Single"},"$version":"A"},{"name":"detection","value":{"$content":10.0,"$type":"System.Single"},"$version":"A"},{"name":"detect_range","value":{"$content":20.0,"$type":"System.Single"},"$version":"A"},{"name":"speed","value":{"$content":2.0,"$type":"System.Single"},"$version":"A"},{"name":"target","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"collide_list","value":{"$content":[],"$type":"System.Collections.Generic.List`1[[UnityEngine.Collider2D,
-      UnityEngine.Physics2DModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      UnityEngine.Physics2DModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"$version":"A"},{"name":"maxHP","value":{"$content":50.0,"$type":"System.Single"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
     - {fileID: 0}
 --- !u!95 &1235355531
@@ -260,6 +261,22 @@ CapsuleCollider2D:
   m_Offset: {x: 0, y: 1}
   m_Size: {x: 1.1167336, y: 1.5531225}
   m_Direction: 0
+--- !u!114 &1956925989
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5849228987098253803}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -57143145, guid: a040fb66244a7f54289914d98ea4ef7d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
+    _objectReferences:
+    - {fileID: 11400000, guid: a1f0be2ca63e971429dc3473fd208b3a, type: 2}
 --- !u!1 &7741041235038706911
 GameObject:
   m_ObjectHideFlags: 0
