@@ -324,6 +324,8 @@ GameObject:
   - component: {fileID: 2083964281}
   - component: {fileID: 2083964282}
   - component: {fileID: 2083964283}
+  - component: {fileID: 2083964284}
+  - component: {fileID: 2083964285}
   m_Layer: 13
   m_Name: HealRange
   m_TagString: Untagged
@@ -340,7 +342,7 @@ Transform:
   m_GameObject: {fileID: 2083964280}
   m_LocalRotation: {x: 0, y: 0, z: 0.7071068, w: 0.7071068}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 4, y: 9, z: 1}
+  m_LocalScale: {x: 7.76, y: 9, z: 1}
   m_Children: []
   m_Father: {fileID: 8440443609728245936}
   m_RootOrder: 4
@@ -406,12 +408,43 @@ CapsuleCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
   m_Size: {x: 1.0000002, y: 2}
   m_Direction: 0
+--- !u!114 &2083964284
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2083964280}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -57143145, guid: a040fb66244a7f54289914d98ea4ef7d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
+    _objectReferences:
+    - {fileID: 11400000, guid: ff3b880f561d36341ac0076572539710, type: 2}
+--- !u!114 &2083964285
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2083964280}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1465209106, guid: c8d0ad23af520fe46aabe2b1fecf6462, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[],"$version":"A"},"$version":"A"}}'
+    _objectReferences: []
 --- !u!1 &3997409881758986045
 GameObject:
   m_ObjectHideFlags: 0
@@ -489,7 +522,7 @@ SpriteRenderer:
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 1, y: 1}
+  m_Size: {x: 4.6875, y: 1.5625}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 0
@@ -570,7 +603,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Speed","value":{"$content":10.0,"$type":"System.Single"},"$version":"A"},{"name":"Movement_X","value":{"$content":0.0,"$type":"System.Single"},"$version":"A"},{"name":"Slope","value":{"$content":0.0,"$type":"System.Single"},"$version":"A"},{"name":"Movement_Y","value":{"$content":0.0,"$type":"System.Single"},"$version":"A"},{"name":"health","value":{"$content":50,"$type":"System.Int32"},"$version":"A"},{"name":"isDead","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"SelectSummon","value":{"$content":0,"$type":"System.Int32"},"$version":"A"},{"name":"maxHP","value":{"$content":50,"$type":"System.Int32"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Speed","value":{"$content":10.0,"$type":"System.Single"},"$version":"A"},{"name":"Movement_X","value":{"$content":0.0,"$type":"System.Single"},"$version":"A"},{"name":"Slope","value":{"$content":0.0,"$type":"System.Single"},"$version":"A"},{"name":"Movement_Y","value":{"$content":0.0,"$type":"System.Single"},"$version":"A"},{"name":"health","value":{"$content":50,"$type":"System.Int32"},"$version":"A"},{"name":"isDead","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"SelectSummon","value":{"$content":0,"$type":"System.Int32"},"$version":"A"},{"name":"maxHP","value":{"$content":50,"$type":"System.Int32"},"$version":"A"},{"name":"healDuration","value":{"$content":3.0,"$type":"System.Single"},"$version":"A"},{"name":"healAmount","value":{"$content":10.0,"$type":"System.Single"},"$version":"A"},{"name":"healTick","value":{"$content":0.5,"$type":"System.Single"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences: []
 --- !u!114 &8440443609728245938
 MonoBehaviour:
