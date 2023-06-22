@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1893448595, guid: a040fb66244a7f54289914d98ea4ef7d, type: 3}
+  m_Name: SiblingHealTest
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"graph":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":0.0,"y":0.0},"zoom":1.0,"elements":[{"argumentCount":1,"coroutine":false,"defaultValues":{"target":null,"name":{"$content":"Heal","$type":"System.String"}},"position":{"x":-283.0,"y":-70.0},"guid":"640309ab-a701-4d52-bc96-399f564110cf","$version":"A","$type":"Bolt.CustomEvent","$id":"9"},{"chainable":false,"member":{"name":"Log","parameterTypes":["System.Object"],"targetType":"UnityEngine.Debug","targetTypeName":"UnityEngine.Debug","$version":"A"},"defaultValues":{},"position":{"x":50.0,"y":-61.0},"guid":"8a9e8e97-fc43-40d9-9d70-14569196d45b","$version":"A","$type":"Bolt.InvokeMember","$id":"11"},{"type":"System.String","value":{"$content":"Healed","$type":"System.String"},"defaultValues":{},"position":{"x":-126.0,"y":122.0},"guid":"cfdb98ff-d3ca-4989-b37b-b7dcb4e07580","$version":"A","$type":"Bolt.Literal","$id":"14"},{"sourceUnit":{"$ref":"9"},"sourceKey":"trigger","destinationUnit":{"$ref":"11"},"destinationKey":"enter","guid":"2568d8f4-699e-459c-804d-688fcd0f7344","$type":"Bolt.ControlConnection"},{"sourceUnit":{"$ref":"14"},"sourceKey":"output","destinationUnit":{"$ref":"11"},"destinationKey":"%message","guid":"d5e12e3c-4a1d-4cfb-baf5-bad84cc64143","$type":"Bolt.ValueConnection"}],"$version":"A"}}'
+    _objectReferences: []

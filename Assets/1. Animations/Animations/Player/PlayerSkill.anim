@@ -110,14 +110,14 @@ AnimationClip:
   m_Events:
   - time: 0.75
     functionName: TriggerAnimationEvent
-    data: CastSkill1
+    data: CastSkill
     objectReferenceParameter: {fileID: 0}
     floatParameter: 0
     intParameter: 0
     messageOptions: 0
   - time: 1.1666666
     functionName: TriggerAnimationEvent
-    data: EndSkill1
+    data: EndSkill
     objectReferenceParameter: {fileID: 0}
     floatParameter: 0
     intParameter: 0
