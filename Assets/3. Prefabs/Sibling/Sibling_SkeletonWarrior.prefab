@@ -221,7 +221,7 @@ MonoBehaviour:
   _data:
     _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
     _objectReferences:
-    - {fileID: 11400000, guid: d1f5d6e442592bf4395af2862831031a, type: 2}
+    - {fileID: 11400000, guid: f87a2abddb6db9b4197171b419566ad4, type: 2}
 --- !u!1 &5849228987098253803
 GameObject:
   m_ObjectHideFlags: 0
@@ -347,9 +347,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _data:
     _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"melee_unit","value":{"$content":true,"$type":"System.Boolean"},"$version":"A"},{"name":"health","value":{"$content":70.0,"$type":"System.Single"},"$version":"A"},{"name":"damage","value":{"$content":15.0,"$type":"System.Single"},"$version":"A"},{"name":"detection","value":{"$content":3.0,"$type":"System.Single"},"$version":"A"},{"name":"detect_range","value":{"$content":10.0,"$type":"System.Single"},"$version":"A"},{"name":"speed","value":{"$content":3.0,"$type":"System.Single"},"$version":"A"},{"name":"target","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"collide_list","value":{"$content":[],"$type":"System.Collections.Generic.List`1[[UnityEngine.Collider2D,
-      UnityEngine.Physics2DModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"$version":"A"},{"name":"maxHP","value":{"$content":70.0,"$type":"System.Single"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      UnityEngine.Physics2DModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"$version":"A"},{"name":"hit_effect","value":{"$content":1,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
     - {fileID: 0}
+    - {fileID: 5303257229407773999, guid: 7e9c26d7f2acf8b47a2abca9fb5f0f77, type: 3}
 --- !u!95 &1235355531
 Animator:
   serializedVersion: 5
