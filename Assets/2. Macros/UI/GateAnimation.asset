@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1893448595, guid: a040fb66244a7f54289914d98ea4ef7d, type: 3}
+  m_Name: GateAnimation
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"graph":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":-53.87567,"y":164.995},"zoom":1.0,"elements":[{"coroutine":false,"defaultValues":{"target":null},"position":{"x":-364.0,"y":48.0},"guid":"2fe4aa45-8289-487b-ae37-3fb9d3e85cf0","$version":"A","$type":"Bolt.OnButtonClick","$id":"9"},{"argumentCount":0,"defaultValues":{"name":{"$content":"","$type":"System.String"},"target":null},"position":{"x":2.0,"y":32.0},"guid":"49d6b3c2-8468-40cf-a03f-3325085b8af7","$version":"A","$type":"Bolt.TriggerCustomEvent","$id":"11"},{"type":"System.String","value":{"$content":"LightOn","$type":"System.String"},"defaultValues":{},"position":{"x":-181.0,"y":161.0},"guid":"72044955-71af-4d56-bdc2-7e1387b99efe","$version":"A","$type":"Bolt.Literal","$id":"13"},{"sourceUnit":{"$ref":"9"},"sourceKey":"trigger","destinationUnit":{"$ref":"11"},"destinationKey":"enter","guid":"1a8c3027-435b-4d76-8255-6ad3c02cda22","$type":"Bolt.ControlConnection"},{"sourceUnit":{"$ref":"13"},"sourceKey":"output","destinationUnit":{"$ref":"11"},"destinationKey":"name","guid":"e0466816-8615-49a1-903d-1b01c59003d7","$type":"Bolt.ValueConnection"}],"$version":"A"}}'
+    _objectReferences: []
