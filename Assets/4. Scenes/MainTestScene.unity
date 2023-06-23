@@ -1199,6 +1199,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Enemy_Spearman (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 7083731760524214683, guid: f48681554f937a6489ab132af105c5a3, type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083731760524214683, guid: f48681554f937a6489ab132af105c5a3, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7083731760524214683, guid: f48681554f937a6489ab132af105c5a3, type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7083731760524214684, guid: f48681554f937a6489ab132af105c5a3, type: 3}
       propertyPath: m_RootOrder
       value: 9
