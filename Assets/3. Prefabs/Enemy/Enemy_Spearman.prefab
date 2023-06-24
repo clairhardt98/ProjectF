@@ -155,7 +155,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 5
   m_Sprite: {fileID: 7482667652216324306, guid: 48e93eef0688c4a259cb0eddcd8661f7, type: 3}
-  m_Color: {r: 0, g: 0.12585497, b: 1, a: 0}
+  m_Color: {r: 0, g: 0.12585497, b: 1, a: 0.43137255}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -372,7 +372,7 @@ MonoBehaviour:
       UnityEngine.Physics2DModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"$version":"A"},{"name":"hit_effect","value":{"$content":1,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"soul","value":{"$content":10.0,"$type":"System.Single"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
     - {fileID: 0}
-    - {fileID: 5303257229407773999, guid: 7e9c26d7f2acf8b47a2abca9fb5f0f77, type: 3}
+    - {fileID: 5303257229407773999, guid: da95488fb8500bd40b46d1ea60323e2a, type: 3}
 --- !u!114 &7577761445312315903
 MonoBehaviour:
   m_ObjectHideFlags: 0

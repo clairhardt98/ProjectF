@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 7925002414206433352}
   - component: {fileID: 7925002414206433353}
   m_Layer: 0
-  m_Name: AttackHit1
+  m_Name: EnemyAttackHit1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -75,7 +75,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 5
   m_Sprite: {fileID: 5088316998373936774, guid: 7465154364d99c145af64d59c37dc37d, type: 3}
-  m_Color: {r: 0.5849056, g: 0, b: 0, a: 1}
+  m_Color: {r: 0, g: 0.27058825, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0

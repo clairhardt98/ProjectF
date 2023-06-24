@@ -6,7 +6,7 @@ AnimationClip:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Sibling_SkeletonArcher_Stand
+  m_Name: MagicMissile1
   serializedVersion: 6
   m_Legacy: 0
   m_Compressed: 0
@@ -20,17 +20,21 @@ AnimationClip:
   m_PPtrCurves:
   - curve:
     - time: 0
-      value: {fileID: 6685025930883475201, guid: f9a2639ae84a94d45a64c69b8483300f, type: 3}
+      value: {fileID: 5088316998373936774, guid: 6db9ab6124c82ea46a96f593da320637, type: 3}
     - time: 0.083333336
-      value: {fileID: -9069858334134115927, guid: f9a2639ae84a94d45a64c69b8483300f, type: 3}
+      value: {fileID: -855298285791758126, guid: 7361ff1c0b18b74439bdd1cadc1f357d, type: 3}
     - time: 0.16666667
-      value: {fileID: -82852197389929141, guid: f9a2639ae84a94d45a64c69b8483300f, type: 3}
+      value: {fileID: 6937817954938267909, guid: 097f97f5f715ada41865d1da95cc7ad5, type: 3}
     - time: 0.25
-      value: {fileID: -8771418417566418557, guid: f9a2639ae84a94d45a64c69b8483300f, type: 3}
+      value: {fileID: -6470460504253458178, guid: b209ac9609be2404e8ad1100676de9dd, type: 3}
     - time: 0.33333334
-      value: {fileID: 2815239907898460620, guid: f9a2639ae84a94d45a64c69b8483300f, type: 3}
+      value: {fileID: -4178046375966092550, guid: 85010011e7fb76a488850e9115fabc16, type: 3}
     - time: 0.41666666
-      value: {fileID: 6690044430755979426, guid: f9a2639ae84a94d45a64c69b8483300f, type: 3}
+      value: {fileID: 4130640169021434097, guid: 284e14b87ab5c5443af206a637165ebf, type: 3}
+    - time: 0.5
+      value: {fileID: 3465286685962602723, guid: cc5a4fa602d86ec4284ea36a02271917, type: 3}
+    - time: 0.5833333
+      value: {fileID: 7028616704906629411, guid: 29a062f8161de204787afb9c94773998, type: 3}
     attribute: m_Sprite
     path: 
     classID: 212
@@ -50,23 +54,25 @@ AnimationClip:
       customType: 23
       isPPtrCurve: 1
     pptrCurveMapping:
-    - {fileID: 6685025930883475201, guid: f9a2639ae84a94d45a64c69b8483300f, type: 3}
-    - {fileID: -9069858334134115927, guid: f9a2639ae84a94d45a64c69b8483300f, type: 3}
-    - {fileID: -82852197389929141, guid: f9a2639ae84a94d45a64c69b8483300f, type: 3}
-    - {fileID: -8771418417566418557, guid: f9a2639ae84a94d45a64c69b8483300f, type: 3}
-    - {fileID: 2815239907898460620, guid: f9a2639ae84a94d45a64c69b8483300f, type: 3}
-    - {fileID: 6690044430755979426, guid: f9a2639ae84a94d45a64c69b8483300f, type: 3}
+    - {fileID: 5088316998373936774, guid: 6db9ab6124c82ea46a96f593da320637, type: 3}
+    - {fileID: -855298285791758126, guid: 7361ff1c0b18b74439bdd1cadc1f357d, type: 3}
+    - {fileID: 6937817954938267909, guid: 097f97f5f715ada41865d1da95cc7ad5, type: 3}
+    - {fileID: -6470460504253458178, guid: b209ac9609be2404e8ad1100676de9dd, type: 3}
+    - {fileID: -4178046375966092550, guid: 85010011e7fb76a488850e9115fabc16, type: 3}
+    - {fileID: 4130640169021434097, guid: 284e14b87ab5c5443af206a637165ebf, type: 3}
+    - {fileID: 3465286685962602723, guid: cc5a4fa602d86ec4284ea36a02271917, type: 3}
+    - {fileID: 7028616704906629411, guid: 29a062f8161de204787afb9c94773998, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}
     m_AdditiveReferencePoseTime: 0
     m_StartTime: 0
-    m_StopTime: 0.5
+    m_StopTime: 0.6666666
     m_OrientationOffsetY: 0
     m_Level: 0
     m_CycleOffset: 0
     m_HasAdditiveReferencePose: 0
-    m_LoopTime: 0
+    m_LoopTime: 1
     m_LoopBlend: 0
     m_LoopBlendOrientation: 0
     m_LoopBlendPositionY: 0
@@ -80,11 +86,4 @@ AnimationClip:
   m_EulerEditorCurves: []
   m_HasGenericRootTransform: 0
   m_HasMotionFloatCurves: 0
-  m_Events:
-  - time: 0.5
-    functionName: TriggerEvent
-    data: AttackDone
-    objectReferenceParameter: {fileID: 0}
-    floatParameter: 0
-    intParameter: 0
-    messageOptions: 0
+  m_Events: []
