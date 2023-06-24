@@ -54,8 +54,6 @@
      <Folder Include="Assets\3. Prefabs\Enemy" />
      <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.Data.xml" />
      <Folder Include="Assets\Bolt\Ludiq\Bolt\Documentation\3. Flow Graphs" />
-     <Folder Include="Assets\1. Animations\Controllers\Sibling" />
-     <Folder Include="Assets\1. Animations\Controllers\Player" />
      <Folder Include="Assets\6. Sprites\Effect\PlayerHeal" />
      <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\mscorlib.xml" />
      <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.Security.xml" />
@@ -69,6 +67,7 @@
      <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.DirectoryServices.xml" />
      <Folder Include="Assets\Demonic_UI" />
      <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.Configuration.Install.xml" />
+     <Folder Include="Assets\1. Animations\Animations\Enemy\Mage1" />
      <Folder Include="Assets\6. Sprites\Demonic_UI\Backgrounds" />
      <Folder Include="Assets\6. Sprites\Player\SummonAnimSprite" />
      <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.Data.Entity.Design.xml" />
@@ -81,7 +80,6 @@
      <Folder Include="Assets\3. Prefabs" />
      <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.Web.Entity.Design.xml" />
      <Folder Include="Assets\4. Scenes" />
-     <Folder Include="Assets\1. Animations\Controllers" />
      <Folder Include="Assets\Bolt\Ludiq\Ludiq.Core\Generated" />
      <Folder Include="Assets\1. Animations\Animations\Enemy" />
      <None Include="Assets\Bolt\Ludiq\Assemblies\Ludiq.Graphs.Runtime.xml" />
@@ -97,10 +95,8 @@
      <None Include="Assets\Bolt\Ludiq\Assemblies\Bolt.State.Editor.xml" />
      <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.Data.Services.Client.xml" />
      <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.Data.Services.Design.xml" />
-     <Folder Include="Assets\1. Animations\Controllers\UI" />
      <Folder Include="Assets\6. Sprites\Demonic_UI\Textures" />
      <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.Runtime.Remoting.xml" />
-     <Folder Include="Assets\1. Animations\Controllers\Enemy" />
      <Folder Include="Assets\Bolt\Ludiq\Bolt" />
      <Folder Include="Assets\3. Prefabs\UI" />
      <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.Xml.Linq.xml" />
@@ -130,8 +126,8 @@
      <Folder Include="Assets\6. Sprites\Effect" />
      <Folder Include="Assets\Bolt\Ludiq\Bolt\Documentation\1. Introduction" />
      <Folder Include="Assets\Bolt\Ludiq\Ludiq.Core" />
-     <Folder Include="Assets\1. Animations\Controllers\UI\Gate" />
      <Folder Include="Assets\3. Prefabs\Sibling" />
+     <Folder Include="Assets\1. Animations\Animations\Enemy\Spearman" />
      <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.Web.Extensions.xml" />
      <Folder Include="Assets\6. Sprites\Effect\SoulDrain" />
      <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.Web.DynamicData.xml" />
@@ -154,7 +150,6 @@
      <Folder Include="Assets\Bolt\Ludiq\Bolt\Documentation\2. Basic Concepts" />
      <Folder Include="Assets\3. Prefabs\Player" />
      <Folder Include="Assets\6. Sprites\Enemy" />
-     <Folder Include="Assets\1. Animations\Animations\Sibling\SkeletonWarrior2" />
      <Folder Include="Assets\Bolt\Ludiq\Bolt\Documentation\4. State Graphs" />
      <Folder Include="Assets\1. Animations\Animations\Sibling\SkeletonArcher" />
      <Folder Include="Assets\Bolt\Ludiq\Bolt.Core\Generated\Variables" />
@@ -166,6 +161,7 @@
      <None Include="Assets\Bolt\Ludiq\Assemblies\Ludiq.Platforms.xml" />
      <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.Windows.Forms.xml" />
      <Folder Include="Assets\6. Sprites\Effect\AttackEffect1" />
+     <Folder Include="Assets\1. Animations\Animations\Sibling\Named" />
      <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.Data.Services.xml" />
      <Folder Include="Assets\6. Sprites\Demonic_UI\Gates" />
      <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.Data.DataSetExtensions.xml" />
@@ -179,6 +175,7 @@
      <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.WorkflowServices.xml" />
      <Folder Include="Assets\Bolt\Ludiq\Ludiq.Graphs\Generated" />
      <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.AddIn.Contract.xml" />
+     <Folder Include="Assets\6. Sprites\Effect\MagicMissile1" />
      <Folder Include="Assets\Bolt\Ludiq\Ludiq" />
      <None Include="Assets\Bolt\Ludiq\Assemblies\Ludiq.Core.Runtime.xml" />
      <Folder Include="Assets\1. Animations\Animations\UI\Gate" />
@@ -205,7 +202,6 @@
      <Folder Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation" />
      <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.Xml.xml" />
      <Folder Include="Assets\Bolt\Ludiq\Bolt.State" />
-     <Folder Include="Assets\1. Animations\Controllers\Effect" />
      <Folder Include="Assets\Bolt\Ludiq\Bolt\Documentation" />
      <Reference Include="UnityEngine">
      <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.47f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
