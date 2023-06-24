@@ -293,7 +293,7 @@ GameObject:
   - component: {fileID: 1930108770}
   - component: {fileID: 1930108771}
   - component: {fileID: 1930108772}
-  m_Layer: 14
+  m_Layer: 12
   m_Name: SkeletonArcher_arrow
   m_TagString: Untagged
   m_Icon: {fileID: 0}

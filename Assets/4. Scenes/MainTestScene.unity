@@ -477,6 +477,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 989314969, guid: 67918dff58b2fd34b9387dd9a07fe510, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5849228987098253803, guid: 67918dff58b2fd34b9387dd9a07fe510, type: 3}
       propertyPath: m_Name
       value: Sibling_SkeletonArcher
@@ -523,6 +527,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5849228987098253809, guid: 67918dff58b2fd34b9387dd9a07fe510, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7741041235038706911, guid: 67918dff58b2fd34b9387dd9a07fe510, type: 3}
+      propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -1043,7 +1051,7 @@ RectTransform:
   m_LocalScale: {x: 0, y: 0, z: 0}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 11
+  m_RootOrder: 12
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -1230,7 +1238,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 6160026820209668026, guid: 2f3b300f70bb1a74385c869c34295476, type: 3}
       propertyPath: m_RootOrder
-      value: 12
+      value: 11
       objectReference: {fileID: 0}
     - target: {fileID: 6160026820209668026, guid: 2f3b300f70bb1a74385c869c34295476, type: 3}
       propertyPath: m_LocalPosition.x
