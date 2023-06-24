@@ -74,6 +74,7 @@
      <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.ServiceModel.Web.xml" />
      <Folder Include="Assets\Bolt\Ludiq\Ludiq.Graphs" />
      <Folder Include="Assets\Bolt\Ludiq\Bolt.State\IconMap" />
+     <Folder Include="Assets\6. Sprites\Effect\AttackHit3" />
      <None Include="Assets\Bolt\Ludiq\Assemblies\Ludiq.Core.Editor.xml" />
      <Folder Include="Assets\1. Animations\Animations\Effects" />
      <Folder Include="Assets\3. Prefabs\Effect" />
