@@ -1,0 +1,553 @@
+fileFormatVersion: 2
+guid: f0b4e647be1332d488030f2eacd65dd9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6358508579237745557
+    second: NamedWalking1
+  - first:
+      213: 595577502149295915
+    second: NamedWalking2
+  - first:
+      213: 9079647732188628964
+    second: NamedWalking3
+  - first:
+      213: 1456627158092060868
+    second: NamedWalking4
+  - first:
+      213: 8463067510094082796
+    second: NamedWalking5
+  - first:
+      213: 4909241615168138325
+    second: NamedWalking6
+  - first:
+      213: 2291508434627324400
+    second: NamedAttack1
+  - first:
+      213: 2394947952069391683
+    second: NamedAttack2
+  - first:
+      213: 2266140838131988531
+    second: NamedAttack4
+  - first:
+      213: 798668018372865824
+    second: NamedAttack5
+  - first:
+      213: -7098050653510637567
+    second: NamedAttack6
+  - first:
+      213: -6083632999792606916
+    second: NamedAttack3
+  - first:
+      213: 8707445605194304373
+    second: NamedDie1
+  - first:
+      213: -4159334664953260641
+    second: NamedDie2
+  - first:
+      213: 6035683228218675299
+    second: NamedDie3
+  - first:
+      213: 5780843089283500080
+    second: NamedDie4
+  - first:
+      213: -488628960117977392
+    second: NamedDie5
+  - first:
+      213: 1198255104564014321
+    second: NamedDie6
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NamedWalking1
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2113
+        width: 139
+        height: 200
+      alignment: 9
+      pivot: {x: 0.4526019, y: 0.10470093}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ca241d22a02c7a0800000000000000
+      internalID: -6358508579237745557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NamedWalking2
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 2105
+        width: 153
+        height: 208
+      alignment: 9
+      pivot: {x: 0.42680168, y: 0.08338341}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2fb2db259ae34800800000000000000
+      internalID: 595577502149295915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NamedWalking3
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 2089
+        width: 160
+        height: 208
+      alignment: 9
+      pivot: {x: 0.42352828, y: 0.10180429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7c8c2a183610e70800000000000000
+      internalID: 9079647732188628964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NamedWalking4
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 2077
+        width: 174
+        height: 212
+      alignment: 9
+      pivot: {x: 0.42968118, y: 0.09155964}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c89348ceaaf63410800000000000000
+      internalID: 1456627158092060868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NamedWalking5
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 2074
+        width: 162
+        height: 216
+      alignment: 9
+      pivot: {x: 0.3954234, y: 0.094766125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2be49af0bd27570800000000000000
+      internalID: 8463067510094082796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NamedWalking6
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 2077
+        width: 128
+        height: 188
+      alignment: 9
+      pivot: {x: 0.49316978, y: 0.099493794}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c69ac1d31212440800000000000000
+      internalID: 4909241615168138325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NamedAttack1
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1548
+        width: 139
+        height: 200
+      alignment: 9
+      pivot: {x: 0.44696254, y: 0.089920655}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9e5c5c7c21dcf10800000000000000
+      internalID: 2291508434627324400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NamedAttack2
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1544
+        width: 133
+        height: 208
+      alignment: 9
+      pivot: {x: 0.48614272, y: 0.096832275}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34535a239709c3120800000000000000
+      internalID: 2394947952069391683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NamedAttack4
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 1536
+        width: 144
+        height: 204
+      alignment: 9
+      pivot: {x: 0.4040078, y: 0.111513026}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338fcd3f513f27f10800000000000000
+      internalID: 2266140838131988531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NamedAttack5
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 1541
+        width: 154
+        height: 193
+      alignment: 9
+      pivot: {x: 0.42526957, y: 0.100143194}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f6498c450751b00800000000000000
+      internalID: 798668018372865824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NamedAttack6
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 1547
+        width: 128
+        height: 192
+      alignment: 9
+      pivot: {x: 0.47840214, y: 0.09203275}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108e4c7a988ae7d90800000000000000
+      internalID: -7098050653510637567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NamedAttack3
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1544
+        width: 170
+        height: 211
+      alignment: 9
+      pivot: {x: 0.4512135, y: 0.10256452}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c318487e408929ba0800000000000000
+      internalID: -6083632999792606916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NamedDie1
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 752
+        width: 154
+        height: 211
+      alignment: 9
+      pivot: {x: 0.42508367, y: 0.09902679}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b84a6d4af07d870800000000000000
+      internalID: 8707445605194304373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NamedDie2
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 753
+        width: 160
+        height: 208
+      alignment: 9
+      pivot: {x: 0.44242916, y: 0.08895082}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f951e79c8231746c0800000000000000
+      internalID: -4159334664953260641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NamedDie3
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 741
+        width: 168
+        height: 217
+      alignment: 9
+      pivot: {x: 0.40271288, y: 0.10125226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 360d1caeaed03c350800000000000000
+      internalID: 6035683228218675299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NamedDie4
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 759
+        width: 118
+        height: 195
+      alignment: 9
+      pivot: {x: 0.5, y: 0.11294008}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 038c307592ea93050800000000000000
+      internalID: 5780843089283500080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NamedDie5
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 758
+        width: 98
+        height: 195
+      alignment: 9
+      pivot: {x: 0.49018952, y: 0.1104993}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de0335bc8a0839f0800000000000000
+      internalID: -488628960117977392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NamedDie6
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 747
+        width: 94
+        height: 211
+      alignment: 9
+      pivot: {x: 0.46931556, y: 0.10813896}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc26d14bae01a010800000000000000
+      internalID: 1198255104564014321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
