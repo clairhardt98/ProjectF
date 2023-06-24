@@ -198,7 +198,7 @@ GameObject:
   - component: {fileID: 3977442907342433196}
   - component: {fileID: 3977442907342433194}
   - component: {fileID: 3977442907342433197}
-  m_Layer: 7
+  m_Layer: 15
   m_Name: TargetCollider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -283,7 +283,7 @@ GameObject:
   - component: {fileID: 3977442906530385242}
   - component: {fileID: 3977442907577177862}
   - component: {fileID: 5367278152792828387}
-  m_Layer: 7
+  m_Layer: 15
   m_Name: EnemyMage
   m_TagString: Enemy
   m_Icon: {fileID: 0}
