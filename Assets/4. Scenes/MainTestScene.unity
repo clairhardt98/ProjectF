@@ -477,9 +477,9 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 989314969, guid: 67918dff58b2fd34b9387dd9a07fe510, type: 3}
-      propertyPath: m_IsActive
-      value: 1
+    - target: {fileID: 1930108772, guid: 67918dff58b2fd34b9387dd9a07fe510, type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"speed","value":{"$content":15.0,"$type":"System.Single"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
       objectReference: {fileID: 0}
     - target: {fileID: 5849228987098253803, guid: 67918dff58b2fd34b9387dd9a07fe510, type: 3}
       propertyPath: m_Name
@@ -527,10 +527,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5849228987098253809, guid: 67918dff58b2fd34b9387dd9a07fe510, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7741041235038706911, guid: 67918dff58b2fd34b9387dd9a07fe510, type: 3}
-      propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
