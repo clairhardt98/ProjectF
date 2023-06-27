@@ -62,6 +62,7 @@
      <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.Web.Routing.xml" />
      <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.DirectoryServices.xml" />
      <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.Configuration.Install.xml" />
+     <None Include="Assets\6. Sprites\HUD\Shaders\Fluid.shader" />
      <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.Data.Entity.Design.xml" />
      <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.ServiceModel.Web.xml" />
      <None Include="Assets\Bolt\Ludiq\Assemblies\Ludiq.Core.Editor.xml" />
@@ -86,6 +87,7 @@
      <None Include="Assets\Bolt\Ludiq\Assemblies\Bolt.Core.Editor.xml" />
      <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.Web.DynamicData.Design.xml" />
      <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.Web.Extensions.xml" />
+     <None Include="Assets\6. Sprites\HUD\Shaders\BarShader.shader" />
      <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.Web.DynamicData.xml" />
      <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.ServiceProcess.xml" />
      <None Include="Assets\Bolt\Ludiq\Assemblies\Bolt.Flow.Runtime.xml" />
