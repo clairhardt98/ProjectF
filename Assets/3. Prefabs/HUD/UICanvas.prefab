@@ -1150,6 +1150,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: progress
       objectReference: {fileID: 0}
+    - target: {fileID: 2016101039878943593, guid: 1d88ba175f192314a9c211b4fc4a623a, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2476562621866912335, guid: 1d88ba175f192314a9c211b4fc4a623a, type: 3}
       propertyPath: m_RootOrder
       value: 4
