@@ -21,7 +21,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &7843237589363135554
 Transform:
   m_ObjectHideFlags: 0
@@ -123,7 +123,7 @@ MonoBehaviour:
   _data:
     _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
     _objectReferences:
-    - {fileID: 11400000, guid: 783f35dc7727d9f43aabc6d2df89fa65, type: 2}
+    - {fileID: 11400000, guid: afe27156af807f146a357b279c9715d8, type: 2}
 --- !u!114 &755323531327295151
 MonoBehaviour:
   m_ObjectHideFlags: 0

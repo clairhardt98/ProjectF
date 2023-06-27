@@ -346,7 +346,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"melee_unit","value":{"$content":true,"$type":"System.Boolean"},"$version":"A"},{"name":"health","value":{"$content":300.0,"$type":"System.Single"},"$version":"A"},{"name":"damage","value":{"$content":15.0,"$type":"System.Single"},"$version":"A"},{"name":"detection","value":{"$content":5.0,"$type":"System.Single"},"$version":"A"},{"name":"detect_range","value":{"$content":15.0,"$type":"System.Single"},"$version":"A"},{"name":"speed","value":{"$content":3.0,"$type":"System.Single"},"$version":"A"},{"name":"target","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"collide_list","value":{"$content":[],"$type":"System.Collections.Generic.List`1[[UnityEngine.Collider2D,
+    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"melee_unit","value":{"$content":true,"$type":"System.Boolean"},"$version":"A"},{"name":"health","value":{"$content":300.0,"$type":"System.Single"},"$version":"A"},{"name":"damage","value":{"$content":30.0,"$type":"System.Single"},"$version":"A"},{"name":"detection","value":{"$content":5.0,"$type":"System.Single"},"$version":"A"},{"name":"detect_range","value":{"$content":15.0,"$type":"System.Single"},"$version":"A"},{"name":"speed","value":{"$content":2.0,"$type":"System.Single"},"$version":"A"},{"name":"target","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"collide_list","value":{"$content":[],"$type":"System.Collections.Generic.List`1[[UnityEngine.Collider2D,
       UnityEngine.Physics2DModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"$version":"A"},{"name":"hit_effect","value":{"$content":1,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
     - {fileID: 0}
@@ -387,7 +387,7 @@ MonoBehaviour:
   _data:
     _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
     _objectReferences:
-    - {fileID: 11400000, guid: d5b32e2d23bb1f34199b97fc11d6f61d, type: 2}
+    - {fileID: 11400000, guid: a8ab7c62456125e40a6a99d4f46db9c6, type: 2}
 --- !u!70 &1161037115
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
