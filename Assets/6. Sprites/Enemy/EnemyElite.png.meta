@@ -1,0 +1,721 @@
+fileFormatVersion: 2
+guid: 0b7e2403901d2f34bbf8fc4b3b13a954
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2485425267670201308
+    second: EnemyElite_0
+  - first:
+      213: -1452002152145402012
+    second: EnemyElite_1
+  - first:
+      213: 8791821671961106387
+    second: EnemyElite_2
+  - first:
+      213: 6219256985918634355
+    second: EnemyElite_3
+  - first:
+      213: 2780788872688097494
+    second: EnemyElite_4
+  - first:
+      213: -2271875102039008710
+    second: EnemyElite_5
+  - first:
+      213: -8372214594704332910
+    second: EnemyElite_6
+  - first:
+      213: -5132957844551506072
+    second: EnemyElite_7
+  - first:
+      213: 1577713053687706385
+    second: EnemyElite_8
+  - first:
+      213: 8897069056265722402
+    second: EnemyElite_9
+  - first:
+      213: -1746584972277816976
+    second: EnemyElite_10
+  - first:
+      213: -4354278472824077769
+    second: EnemyElite_11
+  - first:
+      213: -878270743480064588
+    second: EnemyElite_12
+  - first:
+      213: 7744445701919432515
+    second: EnemyElite_13
+  - first:
+      213: 2669723671841479943
+    second: EnemyElite_14
+  - first:
+      213: 6523749960465107192
+    second: EnemyElite_15
+  - first:
+      213: -5221495953917845825
+    second: EnemyElite_16
+  - first:
+      213: -5882803209955970888
+    second: EnemyElite_17
+  - first:
+      213: 1629014661895046690
+    second: EnemyElite_18
+  - first:
+      213: 6797193618904396730
+    second: EnemyElite_19
+  - first:
+      213: -7420135552991792480
+    second: EnemyElite_20
+  - first:
+      213: -4032883564270833612
+    second: EnemyElite_21
+  - first:
+      213: 7620810064520568044
+    second: EnemyElite_22
+  - first:
+      213: 7640528824339132248
+    second: EnemyElite_23
+  - first:
+      213: 214187823248440669
+    second: EnemyElite_24
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EnemyElite_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 463
+        width: 80
+        height: 122
+      alignment: 9
+      pivot: {x: 0.46488768, y: 0.16902211}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42cccbc23eef18dd0800000000000000
+      internalID: -2485425267670201308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyElite_1
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 463
+        width: 78
+        height: 122
+      alignment: 9
+      pivot: {x: 0.47988814, y: 0.16568369}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46745445cb379dbe0800000000000000
+      internalID: -1452002152145402012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyElite_2
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 463
+        width: 80
+        height: 123
+      alignment: 9
+      pivot: {x: 0.4852932, y: 0.17477864}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d792d5ca33d20a70800000000000000
+      internalID: 8791821671961106387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyElite_3
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 463
+        width: 81
+        height: 123
+      alignment: 9
+      pivot: {x: 0.48931885, y: 0.18172374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 379fb84174d3f4650800000000000000
+      internalID: 6219256985918634355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyElite_4
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 463
+        width: 80
+        height: 122
+      alignment: 9
+      pivot: {x: 0.47296372, y: 0.17379636}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8dee71fb8579620800000000000000
+      internalID: 2780788872688097494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyElite_5
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 464
+        width: 89
+        height: 121
+      alignment: 9
+      pivot: {x: 0.4157996, y: 0.15716098}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a19e0b1ada870e0800000000000000
+      internalID: -2271875102039008710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyElite_6
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 519
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297ae4b1f2befcb80800000000000000
+      internalID: -8372214594704332910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyElite_7
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 526
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867e374390214c8b0800000000000000
+      internalID: -5132957844551506072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyElite_8
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 334
+        width: 81
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1137d8ac9a925e510800000000000000
+      internalID: 1577713053687706385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyElite_9
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 333
+        width: 85
+        height: 114
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a96d00b2db87b70800000000000000
+      internalID: 8897069056265722402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyElite_10
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 333
+        width: 84
+        height: 115
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0716855b832e2c7e0800000000000000
+      internalID: -1746584972277816976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyElite_11
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 332
+        width: 82
+        height: 117
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732c0368cce7293c0800000000000000
+      internalID: -4354278472824077769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyElite_12
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 332
+        width: 81
+        height: 117
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5a04e7961cfc3f0800000000000000
+      internalID: -878270743480064588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyElite_13
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 332
+        width: 79
+        height: 116
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f5535855cc97b60800000000000000
+      internalID: 7744445701919432515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyElite_14
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 334
+        width: 81
+        height: 113
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d1094e883cc0520800000000000000
+      internalID: 2669723671841479943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyElite_15
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 335
+        width: 81
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8cdf45604098a50800000000000000
+      internalID: 6523749960465107192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyElite_16
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 176
+        width: 84
+        height: 122
+      alignment: 9
+      pivot: {x: 0.49980354, y: 0.15790308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe569638158987b0800000000000000
+      internalID: -5221495953917845825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyElite_17
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 169
+        width: 64
+        height: 137
+      alignment: 9
+      pivot: {x: 0.29316044, y: 0.14345022}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0fb0326a51c5ea0800000000000000
+      internalID: -5882803209955970888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyElite_18
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 172
+        width: 68
+        height: 130
+      alignment: 9
+      pivot: {x: 0.2741798, y: 0.14869021}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2264820443c6b9610800000000000000
+      internalID: 1629014661895046690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyElite_19
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 182
+        width: 92
+        height: 110
+      alignment: 9
+      pivot: {x: 0.4377438, y: 0.26858258}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab33954559b745e50800000000000000
+      internalID: 6797193618904396730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyElite_20
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 181
+        width: 81
+        height: 112
+      alignment: 9
+      pivot: {x: 0.3559593, y: 0.41098008}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a27da23702660990800000000000000
+      internalID: -7420135552991792480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyElite_21
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 184
+        width: 80
+        height: 106
+      alignment: 9
+      pivot: {x: 0.3382492, y: 0.46197626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4303023f3c15808c0800000000000000
+      internalID: -4032883564270833612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyElite_22
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 33
+        width: 105
+        height: 115
+      alignment: 9
+      pivot: {x: 0.5055846, y: 0.18131922}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec587c706e82c960800000000000000
+      internalID: 7620810064520568044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyElite_23
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 30
+        width: 107
+        height: 120
+      alignment: 9
+      pivot: {x: 0.1985937, y: 0.18238169}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85fedd60c7c980a60800000000000000
+      internalID: 7640528824339132248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyElite_24
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 47
+        width: 92
+        height: 87
+      alignment: 9
+      pivot: {x: 0.1441531, y: 0.2815606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5dffefb0b2f8f200800000000000000
+      internalID: 214187823248440669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

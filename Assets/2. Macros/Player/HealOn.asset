@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1893448595, guid: a040fb66244a7f54289914d98ea4ef7d, type: 3}
+  m_Name: HealOn
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"graph":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":116.5232,"y":-180.6404},"zoom":0.9500001,"elements":[{"chainable":false,"member":{"name":"SetTrigger","parameterTypes":["System.String"],"targetType":"UnityEngine.Animator","targetTypeName":"UnityEngine.Animator","$version":"A"},"defaultValues":{"target":null,"%name":{"$content":"HealOn","$type":"System.String"}},"position":{"x":88.0,"y":-169.0},"guid":"695ca8f8-72f5-4646-a700-664143119b46","$version":"A","$type":"Bolt.InvokeMember","$id":"9"},{"coroutine":false,"defaultValues":{"name":{"$content":"HealInitAimEnd","$type":"System.String"}},"position":{"x":-194.0,"y":-176.0},"guid":"3c2e8d70-f2b0-4f28-9c34-4ae390e16b75","$version":"A","$type":"Bolt.BoltNamedAnimationEvent","$id":"12"},{"sourceUnit":{"$ref":"12"},"sourceKey":"trigger","destinationUnit":{"$ref":"9"},"destinationKey":"enter","guid":"2fa03d73-468d-4de1-8f10-7fb2a07b84ea","$type":"Bolt.ControlConnection"}],"$version":"A"}}'
+    _objectReferences: []
