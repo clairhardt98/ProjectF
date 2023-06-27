@@ -15,7 +15,7 @@ EditorBuildSettings:
     path: Assets/4. Scenes/UI_Start.unity
     guid: f2bd47ab878a54f488fcad50e04b7d5a
   - enabled: 1
-    path: Assets/4. Scenes/UI_Options.unity
+    path: Assets/4. Scenes/UI_Inventory.unity
     guid: c7baa3ae3904d7246b79b824b5495588
   - enabled: 1
     path: Assets/4. Scenes/UI_StageSelect.unity
