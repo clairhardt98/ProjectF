@@ -121,8 +121,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"soul","value":{"$content":0.0,"$type":"System.Single"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
-    _objectReferences: []
+    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"soul","value":{"$content":0.0,"$type":"System.Single"},"$version":"A"},{"name":"effect","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+    _objectReferences:
+    - {fileID: 3215308459467609119, guid: 8f800ce61b8441846b9d6fa5be0c827a, type: 3}
 --- !u!114 &713942965355260648
 MonoBehaviour:
   m_ObjectHideFlags: 0
