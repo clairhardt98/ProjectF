@@ -128,6 +128,7 @@
      <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.Web.Entity.Design.xml" />
      <Folder Include="Assets\4. Scenes" />
      <Folder Include="Assets\6. Sprites\HUD" />
+     <Folder Include="Assets\6. Sprites\Effect\MagicMissile2 Explosion" />
      <None Include="Assets\TextMesh Pro\Examples &amp; Extras\Fonts\Anton OFL.txt" />
      <Folder Include="Assets\TextMesh Pro\Resources\Fonts &amp; Materials" />
      <None Include="Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc" />
@@ -159,6 +160,7 @@
      <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.Xml.Linq.xml" />
      <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\Microsoft.Build.Utilities.v3.5.xml" />
      <Folder Include="Assets\2. Macros\Player" />
+     <Folder Include="Assets\6. Sprites\Effect\GetSouled" />
      <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\Microsoft.Build.Conversion.v3.5.xml" />
      <Folder Include="Assets\Demonic_UI\Animations" />
      <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.Management.xml" />
@@ -212,6 +214,7 @@
      <None Include="Assets\TextMesh Pro\Shaders\TMPro_Surface.cginc" />
      <Folder Include="Assets\2. Macros\Enemy" />
      <Folder Include="Assets\TextMesh Pro\Shaders" />
+     <Folder Include="Assets\6. Sprites\Effect\MagicMissile2" />
      <Folder Include="Assets\TextMesh Pro\Examples &amp; Extras\Resources\Sprite Assets" />
      <Folder Include="Assets\6. Sprites\Player\SkillAnimSprite" />
      <Folder Include="Assets\2. Macros\UI" />
@@ -230,6 +233,7 @@
      <Folder Include="Assets\6. Sprites\Enemy" />
      <Folder Include="Assets\Bolt\Ludiq\Bolt\Documentation\4. State Graphs" />
      <Folder Include="Assets\1. Animations\Animations\Sibling\SkeletonArcher" />
+     <Folder Include="Assets\6. Sprites\Structure" />
      <Folder Include="Assets\TextMesh Pro\Examples &amp; Extras\Prefabs" />
      <Folder Include="Assets\Bolt\Ludiq\Bolt.Core\Generated\Variables" />
      <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.ServiceModel.xml" />
@@ -255,6 +259,7 @@
      <Folder Include="Assets\Prefabs" />
      <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.Web.Services.xml" />
      <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.WorkflowServices.xml" />
+     <Folder Include="Assets\6. Sprites\Effect\GetHealed" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF Overlay.shader" />
      <Folder Include="Assets\Bolt\Ludiq\Ludiq.Graphs\Generated" />
      <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.AddIn.Contract.xml" />
@@ -290,6 +295,7 @@
      <None Include="Assets\Bolt\Ludiq\Bolt\LICENSES.txt" />
      <None Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation\System.Windows.Presentation.xml" />
      <Folder Include="Assets\TextMesh Pro\Examples &amp; Extras\Resources\Color Gradient Presets" />
+     <Folder Include="Assets\1. Animations\Animations\Enemy\Mage2" />
      <Folder Include="Assets\Bolt\Ludiq\Ludiq.Core\DotNetDocumentation" />
      <None Include="Assets\TextMesh Pro\Sprites\EmojiOne.json" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_Sprite.shader" />
