@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 8383772323810379971}
   - component: {fileID: 8383772323810379970}
   m_Layer: 0
-  m_Name: hp_bar_material
+  m_Name: enemybase_hp_bar_material
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
