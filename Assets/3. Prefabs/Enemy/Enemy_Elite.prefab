@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 73194577}
   - component: {fileID: 73194578}
-  m_Layer: 3
+  m_Layer: 15
   m_Name: Shadow
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -94,7 +94,7 @@ GameObject:
   - component: {fileID: 163693962}
   - component: {fileID: 163693964}
   - component: {fileID: 163693963}
-  m_Layer: 7
+  m_Layer: 15
   m_Name: TargetCollider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -321,8 +321,8 @@ GameObject:
   - component: {fileID: 963584892}
   - component: {fileID: 2076440864}
   - component: {fileID: 9029383322469746629}
-  m_Layer: 7
-  m_Name: Enemy_Spearman 1
+  m_Layer: 15
+  m_Name: Enemy_Elite
   m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -500,9 +500,9 @@ CapsuleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.0016174316, y: 1.0781336}
-  m_Size: {x: 0.6645088, y: 1.2535925}
-  m_Direction: 0
+  m_Offset: {x: 0.008866567, y: 0.899999}
+  m_Size: {x: 0.6248832, y: 0.33148578}
+  m_Direction: 1
 --- !u!114 &9029383322469746629
 MonoBehaviour:
   m_ObjectHideFlags: 0
