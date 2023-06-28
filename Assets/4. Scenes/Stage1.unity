@@ -166,13 +166,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"declarations":{"Kind":"Scene","collection":{"$content":[{"name":"BackGroundMaxX","value":{"$content":59.0,"$type":"System.Single"},"$version":"A"},{"name":"BackGroundMaxY","value":{"$content":2.0,"$type":"System.Single"},"$version":"A"},{"name":"StageStartPos","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"StageEndPos","value":{"$content":1,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"ButtonContinue","value":{"$content":2,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"PausedMenu","value":{"$content":3,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"ButtonNewGame_warning","value":{"$content":4,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+    _json: '{"declarations":{"Kind":"Scene","collection":{"$content":[{"name":"BackGroundMaxX","value":{"$content":59.0,"$type":"System.Single"},"$version":"A"},{"name":"BackGroundMaxY","value":{"$content":2.0,"$type":"System.Single"},"$version":"A"},{"name":"StageStartPos","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"StageEndPos","value":{"$content":1,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
     - {fileID: 1740636743}
     - {fileID: 1545539896}
-    - {fileID: 2264844652664858908}
-    - {fileID: 7610084788840779013}
-    - {fileID: 5978269523690179450}
 --- !u!4 &14075927
 Transform:
   m_ObjectHideFlags: 0
