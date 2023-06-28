@@ -15,8 +15,8 @@ GameObject:
   - component: {fileID: 755323531327295151}
   - component: {fileID: 6446987364694544536}
   - component: {fileID: 1239524181100342419}
-  m_Layer: 11
-  m_Name: EnemyMage2_Missile
+  m_Layer: 12
+  m_Name: SiblingMage1_Missile
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
