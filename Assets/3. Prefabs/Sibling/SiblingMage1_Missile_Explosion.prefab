@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: -8011293772541249788}
   - component: {fileID: -7806644929792117170}
   - component: {fileID: -2211097283745531034}
-  m_Layer: 11
+  m_Layer: 12
   m_Name: SiblingMage1_Missile_Explosion
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -76,7 +76,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: c39526c2ab5db9345a37925d266aa09d, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 5db53460f0bff8649b8bb3c838185136, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -97,7 +97,7 @@ Animator:
   m_GameObject: {fileID: 6050980727348420249}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 773fa9beade96534fa3cab27b44cd635, type: 2}
+  m_Controller: {fileID: 9100000, guid: c33e9f6d887edd341809d8381dff1ec6, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -121,9 +121,9 @@ CircleCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.31238914, y: -0.68519044}
+  m_Offset: {x: 0.0857836, y: -0.03627801}
   serializedVersion: 2
-  m_Radius: 2.3745844
+  m_Radius: 1.6844736
 --- !u!114 &-8011293772541249788
 MonoBehaviour:
   m_ObjectHideFlags: 0
