@@ -308,13 +308,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"melee_unit","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"health","value":{"$content":70.0,"$type":"System.Single"},"$version":"A"},{"name":"damage","value":{"$content":10.0,"$type":"System.Single"},"$version":"A"},{"name":"detection","value":{"$content":10.0,"$type":"System.Single"},"$version":"A"},{"name":"detect_range","value":{"$content":20,"$type":"System.Int32"},"$version":"A"},{"name":"speed","value":{"$content":2,"$type":"System.Int32"},"$version":"A"},{"name":"target","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"collide_list","value":{"$content":[],"$type":"System.Collections.Generic.List`1[[UnityEngine.Collider2D,
-      UnityEngine.Physics2DModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"$version":"A"},{"name":"hit_effect","value":{"$content":1,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"soul","value":{"$content":10.0,"$type":"System.Single"},"$version":"A"},{"name":"attack_effect","value":{"$content":2,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"missile","value":{"$content":3,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"HPBarYValue","value":{"$content":3,"$type":"System.Int32"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"melee_unit","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"health","value":{"$content":70.0,"$type":"System.Single"},"$version":"A"},{"name":"damage","value":{"$content":20.0,"$type":"System.Single"},"$version":"A"},{"name":"detection","value":{"$content":10.0,"$type":"System.Single"},"$version":"A"},{"name":"detect_range","value":{"$content":20,"$type":"System.Int32"},"$version":"A"},{"name":"speed","value":{"$content":2,"$type":"System.Int32"},"$version":"A"},{"name":"target","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"collide_list","value":{"$content":[],"$type":"System.Collections.Generic.List`1[[UnityEngine.Collider2D,
+      UnityEngine.Physics2DModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"$version":"A"},{"name":"hit_effect","value":{"$content":1,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"soul","value":{"$content":10.0,"$type":"System.Single"},"$version":"A"},{"name":"attack_effect","value":{"$content":2,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"missile","value":{"$content":3,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"HPBarYValue","value":{"$content":3,"$type":"System.Int32"},"$version":"A"},{"name":"missile_hit","value":{"$content":4,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
     - {fileID: 0}
     - {fileID: 2883870440306870829, guid: ecd198d57a1ce604fa88330e1652a4d0, type: 3}
     - {fileID: 1531274273198120657, guid: 6c1f8caf2981a104b845e90c85db0fa5, type: 3}
     - {fileID: 7137118357996956544, guid: bf9cdc4e7861db9408e606ce841e01ad, type: 3}
+    - {fileID: 6050980727348420249, guid: d87df5a564d29e1448f09fef19b91b58, type: 3}
 --- !u!114 &6781060543424163801
 MonoBehaviour:
   m_ObjectHideFlags: 0
