@@ -2044,10 +2044,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 2089247841, guid: 4597e91530b07534c8b702b850266db4, type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 6782674861207523470, guid: 4597e91530b07534c8b702b850266db4, type: 3}
       propertyPath: m_Name
       value: UICanvas
@@ -2135,10 +2131,6 @@ PrefabInstance:
     - target: {fileID: 6782674862491906937, guid: 4597e91530b07534c8b702b850266db4, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8687116227883680195, guid: 4597e91530b07534c8b702b850266db4, type: 3}
-      propertyPath: m_IsActive
-      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4597e91530b07534c8b702b850266db4, type: 3}
