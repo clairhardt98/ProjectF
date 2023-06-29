@@ -155,7 +155,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 5
   m_Sprite: {fileID: 7482667652216324306, guid: 48e93eef0688c4a259cb0eddcd8661f7, type: 3}
-  m_Color: {r: 0, g: 0.1359539, b: 1, a: 0.5019608}
+  m_Color: {r: 0, g: 0.1359539, b: 1, a: 0}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -347,7 +347,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _data:
     _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"melee_unit","value":{"$content":true,"$type":"System.Boolean"},"$version":"A"},{"name":"health","value":{"$content":300.0,"$type":"System.Single"},"$version":"A"},{"name":"damage","value":{"$content":30.0,"$type":"System.Single"},"$version":"A"},{"name":"detection","value":{"$content":5.0,"$type":"System.Single"},"$version":"A"},{"name":"detect_range","value":{"$content":15.0,"$type":"System.Single"},"$version":"A"},{"name":"speed","value":{"$content":2.0,"$type":"System.Single"},"$version":"A"},{"name":"target","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"collide_list","value":{"$content":[],"$type":"System.Collections.Generic.List`1[[UnityEngine.Collider2D,
-      UnityEngine.Physics2DModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"$version":"A"},{"name":"hit_effect","value":{"$content":1,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      UnityEngine.Physics2DModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"$version":"A"},{"name":"hit_effect","value":{"$content":1,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"HPBarYValue","value":{"$content":6,"$type":"System.Int32"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
     - {fileID: 0}
     - {fileID: 5303257229407773999, guid: 7e9c26d7f2acf8b47a2abca9fb5f0f77, type: 3}
@@ -401,9 +401,9 @@ CapsuleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.2543757, y: 1.2679045}
-  m_Size: {x: 0.6855178, y: 1.0386896}
-  m_Direction: 0
+  m_Offset: {x: -0.07655224, y: 1.3008345}
+  m_Size: {x: 0.8279388, y: 0.4986344}
+  m_Direction: 1
 --- !u!114 &2085215896
 MonoBehaviour:
   m_ObjectHideFlags: 0
