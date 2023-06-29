@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1893448595, guid: a040fb66244a7f54289914d98ea4ef7d, type: 3}
+  m_Name: Sibling_SkeletonWarrior_SFX
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"graph":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":249.125,"y":67.215},"zoom":0.8500001,"elements":[{"coroutine":true,"defaultValues":{"name":{"$content":"AttackSound","$type":"System.String"}},"position":{"x":-86.0,"y":85.0},"guid":"e41ac190-345d-45f6-b10a-0f50bd1670ce","$version":"A","$type":"Bolt.BoltNamedAnimationEvent","$id":"9"},{"chainable":false,"member":{"name":"PlayOneShot","parameterTypes":["UnityEngine.AudioClip"],"targetType":"UnityEngine.AudioSource","targetTypeName":"UnityEngine.AudioSource","$version":"A"},"defaultValues":{"target":null,"%clip":{"$content":0,"$type":"UnityEngine.Object"}},"position":{"x":249.0,"y":64.0},"guid":"56de06e9-6bf0-4f15-81c8-c3fae24e1dbd","$version":"A","$type":"Bolt.InvokeMember","$id":"11"},{"coroutine":true,"defaultValues":{"name":{"$content":"DeathSound","$type":"System.String"}},"position":{"x":-121.0,"y":331.0},"guid":"39720e0e-55dd-40f4-8211-dff8b87af8a2","$version":"A","$type":"Bolt.BoltNamedAnimationEvent","$id":"14"},{"chainable":false,"member":{"name":"PlayOneShot","parameterTypes":["UnityEngine.AudioClip"],"targetType":"UnityEngine.AudioSource","targetTypeName":"UnityEngine.AudioSource","$version":"A"},"defaultValues":{"target":null,"%clip":{"$content":1,"$type":"UnityEngine.Object"}},"position":{"x":237.0,"y":263.0},"guid":"3f06cadc-8c25-4b94-988d-f9978ee09c56","$version":"A","$type":"Bolt.InvokeMember","$id":"16"},{"sourceUnit":{"$ref":"9"},"sourceKey":"trigger","destinationUnit":{"$ref":"11"},"destinationKey":"enter","guid":"1abdb1bf-14c4-4b51-b6f8-27f279f85fc1","$type":"Bolt.ControlConnection"},{"sourceUnit":{"$ref":"14"},"sourceKey":"trigger","destinationUnit":{"$ref":"16"},"destinationKey":"enter","guid":"cc3d39b7-8e45-4ca4-82ba-d3832908928d","$type":"Bolt.ControlConnection"}],"$version":"A"}}'
+    _objectReferences:
+    - {fileID: 8300000, guid: 15b5fe8370c2ced489eda38571148131, type: 3}
+    - {fileID: 8300000, guid: 25f73d8c8bd4b63438dfab99cbb6b085, type: 3}
