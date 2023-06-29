@@ -5,21 +5,9 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/4. Scenes/UI_Start.unity
     guid: f2bd47ab878a54f488fcad50e04b7d5a
-  - enabled: 1
-    path: Assets/4. Scenes/UI_Inventory.unity
-    guid: c7baa3ae3904d7246b79b824b5495588
-  - enabled: 1
-    path: Assets/4. Scenes/UI_StageSelect.unity
-    guid: 90d8deee8ebf72a46972dce74000505e
   - enabled: 1
     path: Assets/4. Scenes/Stage1.unity
     guid: 3efdf46a0a8a9ee43a37ce5b2f9f0fa7
@@ -35,4 +23,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/4. Scenes/Stage5.unity
     guid: 2c66e0296ee386f49b449d647fa54419
+  - enabled: 1
+    path: Assets/4. Scenes/Loading.unity
+    guid: 97f0777a2b418534a80e8835b0951198
   m_configObjects: {}
