@@ -1159,6 +1159,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2068070147874569683, guid: 72db0f6ece86cc64fa37de521cd25166, type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"timecheck","value":{"$content":1,"$type":"System.Int32"},"$version":"A"},{"name":"timemax","value":{"$content":10,"$type":"System.Int32"},"$version":"A"},{"name":"health","value":{"$content":3000.0,"$type":"System.Single"},"$version":"A"},{"name":"maxHP","value":{"$content":3000.0,"$type":"System.Single"},"$version":"A"},{"name":"delay","value":{"$content":0.5,"$type":"System.Single"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
     - target: {fileID: 3095717984682182328, guid: 72db0f6ece86cc64fa37de521cd25166, type: 3}
       propertyPath: m_RootOrder
       value: 10
@@ -1207,6 +1211,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: EnemyBase 2
       objectReference: {fileID: 0}
+    - target: {fileID: 4685844473686627054, guid: 72db0f6ece86cc64fa37de521cd25166, type: 3}
+      propertyPath: _data._objectReferences.Array.data[0]
+      value: 
+      objectReference: {fileID: 11400000, guid: 43c09275479cc5242ae345ad0179a024, type: 2}
     - target: {fileID: 5363363371297505262, guid: 72db0f6ece86cc64fa37de521cd25166, type: 3}
       propertyPath: m_Size.x
       value: 3.4386883
@@ -1264,8 +1272,8 @@ MonoBehaviour:
     _objectReferences:
     - {fileID: 1224089879}
     - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
+    - {fileID: 2355176976107654556, guid: 198554ec68116714eafdc1bca7580e47, type: 3}
+    - {fileID: 5733251781449557765, guid: d7521a7503d4e1149a841b5b36ad9b0e, type: 3}
 --- !u!4 &1852720574
 Transform:
   m_ObjectHideFlags: 0
