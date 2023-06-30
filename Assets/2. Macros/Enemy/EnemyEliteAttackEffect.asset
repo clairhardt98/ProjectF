@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1893448595, guid: a040fb66244a7f54289914d98ea4ef7d, type: 3}
+  m_Name: EnemyEliteAttackEffect
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"graph":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":277.5445,"y":41.52221},"zoom":1.0,"elements":[{"argumentCount":0,"coroutine":true,"defaultValues":{"target":null,"name":{"$content":"End","$type":"System.String"}},"position":{"x":-5.0,"y":-94.0},"guid":"fd8fc1d2-164f-441f-aaac-e2046c2f029e","$version":"A","$type":"Bolt.CustomEvent","$id":"9"},{"chainable":false,"member":{"name":"SetActive","parameterTypes":["System.Boolean"],"targetType":"UnityEngine.GameObject","targetTypeName":"UnityEngine.GameObject","$version":"A"},"defaultValues":{"target":null,"%value":{"$content":false,"$type":"System.Boolean"}},"position":{"x":274.0,"y":-94.0},"guid":"da7b6159-b3cf-4ef9-900f-f2ebbc9aeb1e","$version":"A","$type":"Bolt.InvokeMember","$id":"11"},{"sourceUnit":{"$ref":"9"},"sourceKey":"trigger","destinationUnit":{"$ref":"11"},"destinationKey":"enter","guid":"62b62e0d-cdf3-451a-9a01-83911fa36704","$type":"Bolt.ControlConnection"}],"$version":"A"}}'
+    _objectReferences: []
