@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1893448595, guid: a040fb66244a7f54289914d98ea4ef7d, type: 3}
+  m_Name: EndingExitButton
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"graph":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":43.95203,"y":-183.7505},"zoom":1.0,"elements":[{"coroutine":false,"defaultValues":{},"position":{"x":-274.0,"y":-166.0},"guid":"4ff350ae-4aa9-4562-9df3-24434ac720d8","$version":"A","$type":"Bolt.Start","$id":"9"},{"chainable":false,"member":{"name":"SetActive","parameterTypes":["System.Boolean"],"targetType":"UnityEngine.GameObject","targetTypeName":"UnityEngine.GameObject","$version":"A"},"defaultValues":{"target":null,"%value":{"$content":false,"$type":"System.Boolean"}},"position":{"x":79.0,"y":-181.0},"guid":"c67d1e8d-3f7c-4567-ba58-1a448466df9e","$version":"A","$type":"Bolt.InvokeMember","$id":"11"},{"kind":"Scene","defaultValues":{"name":{"$content":"ExitButton","$type":"System.String"}},"position":{"x":-96.0,"y":-258.0},"guid":"c3a48f46-f077-4c7a-a096-ed59ff346ee6","$version":"A","$type":"Bolt.SetVariable","$id":"14"},{"defaultValues":{},"position":{"x":-196.0,"y":-55.0},"guid":"a821edd5-b060-469c-8089-ac04b4ef69f7","$version":"A","$type":"Bolt.Self","$id":"16"},{"sourceUnit":{"$ref":"9"},"sourceKey":"trigger","destinationUnit":{"$ref":"14"},"destinationKey":"assign","guid":"5a9058df-f61e-4955-af44-83b4a6f1eb2b","$type":"Bolt.ControlConnection"},{"sourceUnit":{"$ref":"14"},"sourceKey":"assigned","destinationUnit":{"$ref":"11"},"destinationKey":"enter","guid":"fbf9d234-7fa0-473e-a4e5-34d62be5c514","$type":"Bolt.ControlConnection"},{"sourceUnit":{"$ref":"16"},"sourceKey":"self","destinationUnit":{"$ref":"14"},"destinationKey":"input","guid":"d0357736-8a4a-4016-9a4d-c30854a626e9","$type":"Bolt.ValueConnection"}],"$version":"A"}}'
+    _objectReferences: []
