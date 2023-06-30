@@ -132,7 +132,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4267255911532985819, guid: 99bdb3039be034a49b31a6d1c67f9a16, type: 3}
       propertyPath: m_RootOrder
-      value: 7
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 4267255911532985819, guid: 99bdb3039be034a49b31a6d1c67f9a16, type: 3}
       propertyPath: m_LocalPosition.x
@@ -413,7 +413,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8471560481466865283, guid: 2f9b633a61211a641811f4744369bdbc, type: 3}
       propertyPath: m_RootOrder
-      value: 6
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 8471560481466865283, guid: 2f9b633a61211a641811f4744369bdbc, type: 3}
       propertyPath: m_LocalPosition.x
@@ -592,7 +592,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8440443609728245937, guid: 2c0a6651f90788649b00e4dc29060a71, type: 3}
       propertyPath: _data._json
-      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Speed","value":{"$content":10.0,"$type":"System.Single"},"$version":"A"},{"name":"Movement_X","value":{"$content":0.0,"$type":"System.Single"},"$version":"A"},{"name":"Slope","value":{"$content":0.0,"$type":"System.Single"},"$version":"A"},{"name":"Movement_Y","value":{"$content":0.0,"$type":"System.Single"},"$version":"A"},{"name":"health","value":{"$content":20,"$type":"System.Int32"},"$version":"A"},{"name":"isDead","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"SelectSummon","value":{"$content":0,"$type":"System.Int32"},"$version":"A"},{"name":"maxHP","value":{"$content":1000,"$type":"System.Int32"},"$version":"A"},{"name":"healDuration","value":{"$content":10.0,"$type":"System.Single"},"$version":"A"},{"name":"healAmount","value":{"$content":10.0,"$type":"System.Single"},"$version":"A"},{"name":"healTick","value":{"$content":0.5,"$type":"System.Single"},"$version":"A"},{"name":"maxsoul","value":{"$content":100.0,"$type":"System.Single"},"$version":"A"},{"name":"skill2isCooldown","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"skill1isCooldown","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"skill1Cooltime","value":{"$content":3.0,"$type":"System.Single"},"$version":"A"},{"name":"skill2Cooltime","value":{"$content":20.0,"$type":"System.Single"},"$version":"A"},{"name":"skill3Cooltime","value":{"$content":5.0,"$type":"System.Single"},"$version":"A"},{"name":"skill3isCooldown","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"Sibling1SoulRequired","value":{"$content":10,"$type":"System.Int32"},"$version":"A"},{"name":"Sibling2SoulRequired","value":{"$content":15,"$type":"System.Int32"},"$version":"A"},{"name":"Sibling3SoulRequired","value":{"$content":50,"$type":"System.Int32"},"$version":"A"},{"name":"maxmp","value":{"$content":100.0,"$type":"System.Single"},"$version":"A"},{"name":"mpRegenPerSec","value":{"$content":5.0,"$type":"System.Single"},"$version":"A"},{"name":"skill1MpRequired","value":{"$content":20.0,"$type":"System.Single"},"$version":"A"},{"name":"skill2MpRequired","value":{"$content":50.0,"$type":"System.Single"},"$version":"A"},{"name":"skill3MpRequired","value":{"$content":10.0,"$type":"System.Single"},"$version":"A"},{"name":"skill4MpRequired","value":{"$content":10.0,"$type":"System.Single"},"$version":"A"},{"name":"skill4Cooltime","value":{"$content":4.0,"$type":"System.Single"},"$version":"A"},{"name":"skill4isCooldown","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"teleportRange","value":{"$content":5.0,"$type":"System.Single"},"$version":"A"},{"name":"HPBarYValue","value":{"$content":4,"$type":"System.Int32"},"$version":"A"},{"name":"hasNamed","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"Sibling4SoulRequired","value":{"$content":70,"$type":"System.Int32"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Speed","value":{"$content":10.0,"$type":"System.Single"},"$version":"A"},{"name":"Movement_X","value":{"$content":0.0,"$type":"System.Single"},"$version":"A"},{"name":"Slope","value":{"$content":0.0,"$type":"System.Single"},"$version":"A"},{"name":"Movement_Y","value":{"$content":0.0,"$type":"System.Single"},"$version":"A"},{"name":"health","value":{"$content":100,"$type":"System.Int32"},"$version":"A"},{"name":"isDead","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"SelectSummon","value":{"$content":0,"$type":"System.Int32"},"$version":"A"},{"name":"maxHP","value":{"$content":100,"$type":"System.Int32"},"$version":"A"},{"name":"healDuration","value":{"$content":10.0,"$type":"System.Single"},"$version":"A"},{"name":"healAmount","value":{"$content":10.0,"$type":"System.Single"},"$version":"A"},{"name":"healTick","value":{"$content":0.5,"$type":"System.Single"},"$version":"A"},{"name":"maxsoul","value":{"$content":100.0,"$type":"System.Single"},"$version":"A"},{"name":"skill2isCooldown","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"skill1isCooldown","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"skill1Cooltime","value":{"$content":3.0,"$type":"System.Single"},"$version":"A"},{"name":"skill2Cooltime","value":{"$content":20.0,"$type":"System.Single"},"$version":"A"},{"name":"skill3Cooltime","value":{"$content":5.0,"$type":"System.Single"},"$version":"A"},{"name":"skill3isCooldown","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"Sibling1SoulRequired","value":{"$content":10,"$type":"System.Int32"},"$version":"A"},{"name":"Sibling2SoulRequired","value":{"$content":15,"$type":"System.Int32"},"$version":"A"},{"name":"Sibling3SoulRequired","value":{"$content":50,"$type":"System.Int32"},"$version":"A"},{"name":"maxmp","value":{"$content":100.0,"$type":"System.Single"},"$version":"A"},{"name":"mpRegenPerSec","value":{"$content":2.0,"$type":"System.Single"},"$version":"A"},{"name":"skill1MpRequired","value":{"$content":20.0,"$type":"System.Single"},"$version":"A"},{"name":"skill2MpRequired","value":{"$content":50.0,"$type":"System.Single"},"$version":"A"},{"name":"skill3MpRequired","value":{"$content":10.0,"$type":"System.Single"},"$version":"A"},{"name":"skill4MpRequired","value":{"$content":10.0,"$type":"System.Single"},"$version":"A"},{"name":"skill4Cooltime","value":{"$content":4.0,"$type":"System.Single"},"$version":"A"},{"name":"skill4isCooldown","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"teleportRange","value":{"$content":5.0,"$type":"System.Single"},"$version":"A"},{"name":"HPBarYValue","value":{"$content":4,"$type":"System.Int32"},"$version":"A"},{"name":"hasNamed","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"Sibling4SoulRequired","value":{"$content":70,"$type":"System.Int32"},"$version":"A"},{"name":"soulRegenPerSec","value":{"$content":2.0,"$type":"System.Single"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
       objectReference: {fileID: 0}
     - target: {fileID: 8440443609728245941, guid: 2c0a6651f90788649b00e4dc29060a71, type: 3}
       propertyPath: m_Name
@@ -935,7 +935,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 8
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1326079793
 GameObject:
@@ -994,7 +994,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6782674862491906937, guid: 4597e91530b07534c8b702b850266db4, type: 3}
       propertyPath: m_RootOrder
-      value: 9
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 6782674862491906937, guid: 4597e91530b07534c8b702b850266db4, type: 3}
       propertyPath: m_AnchorMax.x
@@ -1152,6 +1152,71 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1001 &1767678950
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3095717984682182328, guid: 72db0f6ece86cc64fa37de521cd25166, type: 3}
+      propertyPath: m_RootOrder
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 3095717984682182328, guid: 72db0f6ece86cc64fa37de521cd25166, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 68.56
+      objectReference: {fileID: 0}
+    - target: {fileID: 3095717984682182328, guid: 72db0f6ece86cc64fa37de521cd25166, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -4.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 3095717984682182328, guid: 72db0f6ece86cc64fa37de521cd25166, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3095717984682182328, guid: 72db0f6ece86cc64fa37de521cd25166, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3095717984682182328, guid: 72db0f6ece86cc64fa37de521cd25166, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3095717984682182328, guid: 72db0f6ece86cc64fa37de521cd25166, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3095717984682182328, guid: 72db0f6ece86cc64fa37de521cd25166, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3095717984682182328, guid: 72db0f6ece86cc64fa37de521cd25166, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3095717984682182328, guid: 72db0f6ece86cc64fa37de521cd25166, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3095717984682182328, guid: 72db0f6ece86cc64fa37de521cd25166, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3095717984682182330, guid: 72db0f6ece86cc64fa37de521cd25166, type: 3}
+      propertyPath: m_Name
+      value: EnemyBase 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5363363371297505262, guid: 72db0f6ece86cc64fa37de521cd25166, type: 3}
+      propertyPath: m_Size.x
+      value: 3.4386883
+      objectReference: {fileID: 0}
+    - target: {fileID: 5363363371297505262, guid: 72db0f6ece86cc64fa37de521cd25166, type: 3}
+      propertyPath: m_Offset.x
+      value: 2.1490316
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 72db0f6ece86cc64fa37de521cd25166, type: 3}
 --- !u!1 &1852720571
 GameObject:
   m_ObjectHideFlags: 0
@@ -1198,7 +1263,7 @@ MonoBehaviour:
     _json: '{"declarations":{"Kind":"Scene","collection":{"$content":[{"name":"BackGroundMaxX","value":{"$content":59.0,"$type":"System.Single"},"$version":"A"},{"name":"BackGroundMaxY","value":{"$content":2.0,"$type":"System.Single"},"$version":"A"},{"name":"StageStartPos","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"StageEndPos","value":{"$content":1,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"ButtonContinue","value":{"$content":2,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"PausedMenu","value":{"$content":3,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
     - {fileID: 1224089879}
-    - {fileID: 1973734008}
+    - {fileID: 0}
     - {fileID: 0}
     - {fileID: 0}
 --- !u!4 &1852720574
@@ -1215,68 +1280,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1001 &1973734007
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 3095717984682182328, guid: 9c55c95a7a08cc84b9e1f687be229892, type: 3}
-      propertyPath: m_RootOrder
-      value: 5
-      objectReference: {fileID: 0}
-    - target: {fileID: 3095717984682182328, guid: 9c55c95a7a08cc84b9e1f687be229892, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 68.56
-      objectReference: {fileID: 0}
-    - target: {fileID: 3095717984682182328, guid: 9c55c95a7a08cc84b9e1f687be229892, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -4.05
-      objectReference: {fileID: 0}
-    - target: {fileID: 3095717984682182328, guid: 9c55c95a7a08cc84b9e1f687be229892, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3095717984682182328, guid: 9c55c95a7a08cc84b9e1f687be229892, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 3095717984682182328, guid: 9c55c95a7a08cc84b9e1f687be229892, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3095717984682182328, guid: 9c55c95a7a08cc84b9e1f687be229892, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3095717984682182328, guid: 9c55c95a7a08cc84b9e1f687be229892, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3095717984682182328, guid: 9c55c95a7a08cc84b9e1f687be229892, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3095717984682182328, guid: 9c55c95a7a08cc84b9e1f687be229892, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3095717984682182328, guid: 9c55c95a7a08cc84b9e1f687be229892, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3095717984682182330, guid: 9c55c95a7a08cc84b9e1f687be229892, type: 3}
-      propertyPath: m_Name
-      value: EnemyBase 1
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 9c55c95a7a08cc84b9e1f687be229892, type: 3}
---- !u!4 &1973734008 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 3095717984682182328, guid: 9c55c95a7a08cc84b9e1f687be229892, type: 3}
-  m_PrefabInstance: {fileID: 1973734007}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &2039682736
 GameObject:
   m_ObjectHideFlags: 0
@@ -1380,7 +1383,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2325281340851849319, guid: 360b8744b02468d4f9be059c204c2927, type: 3}
       propertyPath: m_RootOrder
-      value: 10
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 2325281340851849319, guid: 360b8744b02468d4f9be059c204c2927, type: 3}
       propertyPath: m_AnchorMax.x
