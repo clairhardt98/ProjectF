@@ -992,6 +992,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1901656638045990078, guid: 80a768a742a051445ac39d410ee2baca, type: 3}
+      propertyPath: m_Text
+      value: 100
+      objectReference: {fileID: 0}
     - target: {fileID: 4919316704631747626, guid: 80a768a742a051445ac39d410ee2baca, type: 3}
       propertyPath: m_Name
       value: UICanvas
