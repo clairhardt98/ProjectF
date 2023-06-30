@@ -1,0 +1,625 @@
+fileFormatVersion: 2
+guid: d32fd212704c47e4785a6cef94c0f36d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SiblingMageWalk_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 828
+        width: 112
+        height: 151
+      alignment: 9
+      pivot: {x: 0.5000001, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef97cc3f071a3340800000000000000
+      internalID: 4844209703402053603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SiblingMageWalk_1
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 828
+        width: 108
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5000001, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b69685e813ceb80800000000000000
+      internalID: -8364255920495432889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SiblingMageWalk_2
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 830
+        width: 111
+        height: 144
+      alignment: 9
+      pivot: {x: 0.48575434, y: 0.100001015}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56982bc1e2cce1df0800000000000000
+      internalID: -207504034390439579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SiblingMageWalk_3
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 832
+        width: 121
+        height: 141
+      alignment: 9
+      pivot: {x: 0.4816544, y: 0.100000694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae63bcf308936d920800000000000000
+      internalID: 3014660223560005354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SiblingMageWalk_4
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 834
+        width: 123
+        height: 137
+      alignment: 9
+      pivot: {x: 0.4255401, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c8864c72d045e30800000000000000
+      internalID: 4491229192845298758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SiblingMageWalk_5
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 834
+        width: 122
+        height: 138
+      alignment: 9
+      pivot: {x: 0.4185566, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf6f2faa8d5a3e70800000000000000
+      internalID: 9095685247654129579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SiblingMageWalk_6
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 833
+        width: 122
+        height: 139
+      alignment: 9
+      pivot: {x: 0.47058207, y: 0.10000105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c460a5abc4e452b0800000000000000
+      internalID: -5596596873606437691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SiblingMageAttack_1
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 643
+        width: 111
+        height: 146
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 915d35aa48248ef00800000000000000
+      internalID: 1146239242726528281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SiblingMageAttack_2
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 645
+        width: 121
+        height: 138
+      alignment: 9
+      pivot: {x: 0.49179733, y: 0.10236613}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9fb1e7086bebc00800000000000000
+      internalID: 918372037017991594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SiblingMageAttack_5
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 657
+        width: 97
+        height: 124
+      alignment: 9
+      pivot: {x: 0.71168, y: 0.1289668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608490ea86d9aa050800000000000000
+      internalID: 5812631341997049862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SiblingMageAttack_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 639
+        width: 108
+        height: 152
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77e2b2f68c54f2f0800000000000000
+      internalID: -940024687546407041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SiblingMageAttack_3
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 644
+        width: 119
+        height: 149
+      alignment: 9
+      pivot: {x: 0.5107589, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31729d6c56364ca20800000000000000
+      internalID: 3081697333807228691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SiblingMageAttack_4
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 650
+        width: 118
+        height: 136
+      alignment: 9
+      pivot: {x: 0.5967438, y: 0.097598806}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa2046bec2bf7510800000000000000
+      internalID: 1549153397729405611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SiblingMageAttack_6
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 653
+        width: 98
+        height: 112
+      alignment: 9
+      pivot: {x: 0.70658284, y: 0.14081629}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a274e251a5317500800000000000000
+      internalID: 392153609554653862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SiblingMageDead_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 474
+        width: 127
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5938013, y: 0.0798762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203119a2d30376910800000000000000
+      internalID: 1830484812814684930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SiblingMageDead_1
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 474
+        width: 116
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5662429, y: 0.08427811}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3873b6f0787a7230800000000000000
+      internalID: 3637352075625723965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SiblingMageCorpse_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 273
+        width: 179
+        height: 152
+      alignment: 9
+      pivot: {x: 0.4999999, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b90769ac867e1c0800000000000000
+      internalID: -4474492485452653732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SiblingMageCorpse_1
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 258
+        width: 184
+        height: 181
+      alignment: 9
+      pivot: {x: 0.49999982, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b4907504af6c2a0800000000000000
+      internalID: -6717406639931438226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SiblingMageCorpse_2
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 237
+        width: 184
+        height: 180
+      alignment: 9
+      pivot: {x: 0.49999967, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0af4645aa0f2550800000000000000
+      internalID: 6138136522094780650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SiblingMageCorpse_3
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 234
+        width: 143
+        height: 186
+      alignment: 9
+      pivot: {x: 0.49999958, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b939bbe69fc22bb80800000000000000
+      internalID: -8380586506766806117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SiblingMageCorpse_4
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 32
+        width: 113
+        height: 169
+      alignment: 9
+      pivot: {x: 0.49424204, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b71fd81a90bb86480800000000000000
+      internalID: -8905662613085621893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SiblingMageCorpse_5
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 37
+        width: 113
+        height: 157
+      alignment: 9
+      pivot: {x: 0.49999973, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070fe0d3a3a823d60800000000000000
+      internalID: 7868503481706803312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SiblingMageCorpse_6
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 49
+        width: 77
+        height: 129
+      alignment: 9
+      pivot: {x: 0.4999992, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40389776fc4552610800000000000000
+      internalID: 1595774892743688964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SiblingMageCorpse_7
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 40
+        width: 54
+        height: 140
+      alignment: 9
+      pivot: {x: 0.49999887, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e956235585939d1c0800000000000000
+      internalID: -4478485302893976162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
