@@ -758,6 +758,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4597e91530b07534c8b702b850266db4, type: 3}
+--- !u!1 &1140075776 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7299069901426781032, guid: 4597e91530b07534c8b702b850266db4, type: 3}
+  m_PrefabInstance: {fileID: 1140075775}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1211764271
 GameObject:
   m_ObjectHideFlags: 0
@@ -870,6 +875,11 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1255902397 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1421354739533385585, guid: 4597e91530b07534c8b702b850266db4, type: 3}
+  m_PrefabInstance: {fileID: 1140075775}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1326079793
 GameObject:
   m_ObjectHideFlags: 0
@@ -1031,10 +1041,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"declarations":{"Kind":"Scene","collection":{"$content":[{"name":"BackGroundMaxX","value":{"$content":59.0,"$type":"System.Single"},"$version":"A"},{"name":"BackGroundMaxY","value":{"$content":2.0,"$type":"System.Single"},"$version":"A"},{"name":"StageStartPos","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"StageEndPos","value":{"$content":1,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+    _json: '{"declarations":{"Kind":"Scene","collection":{"$content":[{"name":"BackGroundMaxX","value":{"$content":59.0,"$type":"System.Single"},"$version":"A"},{"name":"BackGroundMaxY","value":{"$content":2.0,"$type":"System.Single"},"$version":"A"},{"name":"StageStartPos","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"StageEndPos","value":{"$content":1,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"ButtonContinue","value":{"$content":2,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"PausedMenu","value":{"$content":3,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
     - {fileID: 1224089879}
     - {fileID: 1973734008}
+    - {fileID: 1255902397}
+    - {fileID: 1140075776}
 --- !u!4 &1852720574
 Transform:
   m_ObjectHideFlags: 0
