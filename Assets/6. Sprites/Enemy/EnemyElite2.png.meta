@@ -1,0 +1,625 @@
+fileFormatVersion: 2
+guid: c99d759f60be6d1419461cac3e3a6a1d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -639463616201398334
+    second: EnemyElite2_0
+  - first:
+      213: 1341040406162249508
+    second: EnemyElite2_1
+  - first:
+      213: 7087315913261226262
+    second: EnemyElite2_2
+  - first:
+      213: -3111971317401691959
+    second: EnemyElite2_3
+  - first:
+      213: 6313639834883005376
+    second: EnemyElite2_4
+  - first:
+      213: 2695696014062041978
+    second: EnemyElite2_8
+  - first:
+      213: 6814388294211750555
+    second: EnemyElite2_9
+  - first:
+      213: 1753676310458924978
+    second: EnemyElite2_10
+  - first:
+      213: -7363559184241819125
+    second: EnemyElite2_11
+  - first:
+      213: -8339058573410238021
+    second: EnemyElite2_Walk0
+  - first:
+      213: -75242405830478232
+    second: EnemyElite2_Walk1
+  - first:
+      213: 9059548556502898029
+    second: EnemyElite2_Walk2
+  - first:
+      213: -8230919952757833954
+    second: EnemyElite2_Walk3
+  - first:
+      213: -7056155736465644484
+    second: EnemyElite2_Walk4
+  - first:
+      213: 2442681157045021447
+    second: EnemyElite2_5
+  - first:
+      213: 1562109215353209687
+    second: EnemyElite2_6
+  - first:
+      213: -1414364171325660971
+    second: EnemyElite2_7
+  - first:
+      213: 7603040402248669050
+    second: EnemyElite2_Dead0
+  - first:
+      213: -5485365724450730188
+    second: EnemyElite2_Dead1
+  - first:
+      213: -7899044983654152944
+    second: EnemyElite2_Corpse0
+  - first:
+      213: -8916149523609391783
+    second: EnemyElite2_Corpse1
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EnemyElite2_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 717
+        width: 152
+        height: 117
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c76785aa3b2027f0800000000000000
+      internalID: -639463616201398334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyElite2_1
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 715
+        width: 149
+        height: 117
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4271fbee4255c9210800000000000000
+      internalID: 1341040406162249508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyElite2_2
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 713
+        width: 148
+        height: 118
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61998ecd5443b5260800000000000000
+      internalID: 7087315913261226262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyElite2_3
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 712
+        width: 149
+        height: 117
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c85113239e00d4d0800000000000000
+      internalID: -3111971317401691959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyElite2_4
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 712
+        width: 150
+        height: 118
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb15fd8afd8e9750800000000000000
+      internalID: 6313639834883005376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyElite2_8
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 543
+        width: 140
+        height: 101
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7bba9c0e39096520800000000000000
+      internalID: 2695696014062041978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyElite2_9
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 545
+        width: 134
+        height: 103
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a4216ac02919e50800000000000000
+      internalID: 6814388294211750555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyElite2_10
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 545
+        width: 143
+        height: 103
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bffbef105f465810800000000000000
+      internalID: 1753676310458924978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyElite2_11
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 540
+        width: 152
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0283bc8fe16fc990800000000000000
+      internalID: -7363559184241819125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyElite2_Walk0
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 534
+        width: 170
+        height: 127
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb105b2e866b54c80800000000000000
+      internalID: -8339058573410238021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyElite2_Walk1
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 536
+        width: 170
+        height: 122
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 866bd683e6fa4fef0800000000000000
+      internalID: -75242405830478232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyElite2_Walk2
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 395
+        width: 157
+        height: 98
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6512cf996bf9bd70800000000000000
+      internalID: 9059548556502898029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyElite2_Walk3
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 394
+        width: 135
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1fb13989e5e5cd80800000000000000
+      internalID: -8230919952757833954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyElite2_Walk4
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 394
+        width: 140
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3461282ebf731e90800000000000000
+      internalID: -7056155736465644484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyElite2_5
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 189
+        width: 141
+        height: 183
+      alignment: 9
+      pivot: {x: 0.43097833, y: 0.060115125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b6539029526e120800000000000000
+      internalID: 2442681157045021447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyElite2_6
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 188
+        width: 137
+        height: 185
+      alignment: 9
+      pivot: {x: 0.41629854, y: 0.07122357}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7530e711e0abda510800000000000000
+      internalID: 1562109215353209687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyElite2_7
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 196
+        width: 180
+        height: 156
+      alignment: 9
+      pivot: {x: 0.4333647, y: 0.18251252}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d02811a74b2f5ce0800000000000000
+      internalID: -1414364171325660971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyElite2_Dead0
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 30
+        width: 109
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7799f496fc638960800000000000000
+      internalID: 7603040402248669050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyElite2_Dead1
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 32
+        width: 106
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43fc203bfe010e3b0800000000000000
+      internalID: -5485365724450730188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyElite2_Corpse0
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 30
+        width: 123
+        height: 114
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01586743074f06290800000000000000
+      internalID: -7899044983654152944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyElite2_Corpse1
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 21
+        width: 138
+        height: 111
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d6ef08f39734480800000000000000
+      internalID: -8916149523609391783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
